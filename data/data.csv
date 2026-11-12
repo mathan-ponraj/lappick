@@ -1,0 +1,985 @@
+Name,Brand,Price,Rating,Processor_name,Threads,RAM_GB,RAM_type,Storage,Storage_type,Graphics_name,Display_size,Touch_screen,OS
+HP Victus 15,HP,50399,2.92,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 6500M,15.6,TRUE,Windows 11 OS
+Lenovo V15 G4,Lenovo,26690,3.16,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq5007TU,HP,37012,2.86,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book2,Samsung,69990,2.86,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+Tecno Megabook T1,Tecno,23990,3.06,Intel Core i3,4,8,LPDDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book2,Samsung,42990,2.81,Intel Core i5,12,8,LPDDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Xiaomi Redmi G,Xiaomi,102990,3.33,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,33780,2.9,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq5330TU,HP,54990,2.91,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,55980,2.91,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+Wings Nuvobook V1,Wings,24990,3.04,Intel Core i5,8,8,DDR4,512, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V15 82KDA01BIH,Lenovo,26739,3.16,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,81990,3.31,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,16.1,FALSE,Windows 11 OS
+Zebronics Pro Series,Zebronics,32990,3.08,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,79899,3.37,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050 Ti,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,59990,3.3,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3525,Dell,36940,3.02,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Radeon Graphics,15.6,FALSE,Windows 11 OS
+Asus TUF F15,Asus,53890,3.16,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,33500,3.05,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Gigabyte G5 MF,Gigabyte,69990,3.27,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,46890,2.94,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Vega 7,16,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,75990,2.85,Intel Core 5,12,16,LPDDR4X,512, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+HP 14s dq5138tu,HP,38990,2.85,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,299999,3.58,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,NVIDIA GeForce RTX 4050,16,TRUE,Windows 11 OS
+Asus Vivobook 15,Asus,39800,2.84,Intel Core i3,12,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,44990,2.95,AMD Ryzen 7,16,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Acer Predator Helios,Acer,112490,3.32,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+HP Victus 16,HP,44990,3.15,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,16.1,FALSE,Windows 11 OS
+HP Victus 15,HP,61990,3.29,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,16.1,FALSE,Windows 11 OS
+Dell 15 G15,Dell,81990,3.36,Intel Core i5,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus ROG Flow,Asus,94990,3.17,AMD Ryzen 9,16,16,LPDDR5,512, SSD,‎NVIDIA GeForce RTX 3050,13.4,TRUE,Windows 11 OS
+Asus TUF Gaming,Asus,102499,3.21,Intel Core i7,20,16,DDR4,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5420,Dell,69999,2.86,Intel Core i5,16,16,DDR5,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,75990,2.97,Intel Core Ultra,18,16,LPDDR5,1000, SSD,Intel Arc Graphics,16,FALSE,Windows 11 OS
+Zebronics Pro Series,Zebronics,27990,3.15,Intel Core i5,8,16,LPDDR4X,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+MSI Sword 15,MSI,94990,3.34,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Asus ROG Flow,Asus,99990,3.28,AMD Ryzen 9,16,16,LPDDR5,1000, SSD,‎NVIDIA GeForce RTX 3050,13.4,TRUE,Windows 11 OS
+Asus TUF Gaming,Asus,61990,3.29,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,55200,3.07,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon Vega 7,16,FALSE,Windows 11 OS
+Samsung Galaxy Book2,Samsung,72990,2.85,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.3,TRUE,Windows 11 OS
+HP Envy x360,HP,96999,2.81,Intel Core Ultra,14,16,LPDDR5,512, SSD,Integrated Intel Graphics,14,TRUE,Windows 11 OS
+HP Omen 16,HP,138990,3.29,Intel Core i7,28,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Dell G15 5530,Dell,99990,3.33,Intel Core i7,12.81790123,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,64990,2.88,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,32990,2.91,Intel Core i3,8,8,DDR4,512, SSD,‎Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq5329TU,HP,47990,2.78,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Acer Aspire 7,Acer,53990,3.32,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Infinix Zerobook 2023,Infinix,74990,3.31,Intel Core i9,20,32,LPDDR5X,1000, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,86990,3.23,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+HP 255 G9,HP,19979,2.98,AMD Athlon,2,4,DDR4,256, SSD,AMD Integrated,15.6,FALSE,DOS OS
+MSI Modern 14,MSI,37990,3.18,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Dell Vostro 3520,Dell,48990,2.77,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,31990,2.92,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated UHD Graphics,15.6,TRUE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,55390,2.91,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated UHD Graphics,14,FALSE,Windows 11 OS
+HP Envy x360,HP,96990,2.96,AMD Ryzen 7,16,16,LPDDR5,512, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+HP 15s fq5327TU,HP,37490,2.86,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook S15,Asus,109990,2.91,Intel Core i9,20,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Honor MagicBook X16,Honor,46990,2.96,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,39990,2.99,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,65990,3.28,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Zebronics Pro Series,Zebronics,27990,2.98,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Acer Nitro V,Acer,78052,3.25,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,79990,3.19,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,16.1,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,52990,3.52,Intel Core i5,12,16,DDR4,1256,Hard Disk & SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,25990,2.87,Intel Celeron ,2,4,DDR4,256, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Ideapad Gaming,Lenovo,55990,3.26,AMD Ryzen 5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,57990,3.31,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,68990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP 255 G8,HP,25580,3.18,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book2,Samsung,52990,2.92,Intel Core i5,12,16,LPDDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,54990,3.27,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,76990,2.97,Intel Core Ultra,18,16,LPDDR5,1000, SSD,Intel Arc Graphics,14,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,329990,3.83,Intel Core i9,32,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4090,16,FALSE,Windows 11 OS
+Colorful Evol P15,Colorful,89999,3.22,Intel Core i7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,69990,3.14,AMD Ryzen 7,16,16,DDR4,1000, SSD,AMD Radeon Vega 8 Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,34299,3.06,Intel Core i3,8,16,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+MSI Titan 18,MSI,599990,3.81,Intel Core i9,12.81790123,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4090,18,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,199990,2.74,Intel Core Ultra,22,16,LPDDR5X,512, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Xiaomi Redmi Book,Xiaomi,52990,2.92,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,32390,2.92,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,53990,3.16,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,52499,3.08,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon RX 6500M Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,37490,3.18,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,89990,3.22,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,64990,2.88,Intel Core i7,16,16,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+Dell Latitude 3420,Dell,38500,2.65,Intel Core i5,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Ubuntu OS
+Acer Aspire 7,Acer,57990,3.31,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 3050,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,89990,3.17,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+HP Envy x360,HP,133999,3.23,Intel Core Ultra,14,32,LPDDR5,1000, SSD,Integrated Intel Graphics,14,TRUE,Windows 11 OS
+Asus Vivobook Pro,Asus,149990,3.29,Intel Core i9,20,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+HP Omen 16,HP,112990,3.27,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3070 Ti,16.1,FALSE,Windows 11 OS
+Acer Nitro 5,Acer,69990,3.22,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP 15s eq2223AU,HP,38990,3,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Dell Latitude 3430,Dell,108000,2.62,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,55390,2.91,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,70990,2.69,Intel Core 5,12,8,LPDDR4X,512, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+MSI Vector 16,MSI,197990,3.6,Intel Core i7,28,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,35500,2.88,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,49499,2.94,Intel Core i7,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Envy x360,HP,122000,3.31,Intel Core i7,12,16,LPDDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,TRUE,Windows 11 OS
+Lenovo V14 82TS005DIH,Lenovo,43490,2.61,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,DOS OS
+Lenovo IdeaPad Slim,Lenovo,79990,2.96,Intel Core Ultra,18,16,LPDDR5,1000, SSD,Intel Arc Graphics,14,FALSE,Windows 11 OS
+HP Omen 14,HP,175999,3.27,Intel Core Ultra,22,16,LPDDR5X,1000, SSD,NVIDIA GeForce RTX 4060,14,FALSE,Windows 11 OS
+HP Omen 16,HP,135999,3.58,AMD Ryzen 7,16,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+HP Victus 15,HP,58490,3.14,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,53490,2.92,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,149990,3.63,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Infinix INBook Y2,Infinix,33990,3.07,Intel Core i5,8,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,69990,3.22,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,65990,3.4,Intel Core i5,12,16,DDR4,1000, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,69990,2.86,Intel Core i7,12,16,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook Y1,Infinix,25990,3.02,Intel Core i5,8,8,LPDDR4X,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+HP 15s fq5185TU,HP,36512,2.87,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Zebronics ZEB NBC,Zebronics,43990,3.1,Intel Core i7,12,16,DDR4,1000, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,49990,2.92,AMD Ryzen 5,12,8,DDR5,512, SSD,AMD Radeon RX6550M,15.6,FALSE,Windows 11 OS
+Asus VivoBook 15,Asus,28990,2.9,Intel Core i3,4,8,DDR4,256, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,72990,3.26,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050 Ti,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,41990,3.23,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,60200,3.3,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,16.1,FALSE,Windows 11 OS
+Infinix INBook Y1,Infinix,18990,3.03,Intel Celeron ,4,4,LPDDR4X,128, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,58990,2.9,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,64990,3.23,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell G15 5530,Dell,145990,3.17,Intel Core i7,12.81790123,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+HP 15s fr5009TU,HP,37990,2.85,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook S14,Asus,65990,2.87,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+HP Victus 15,HP,49490,2.92,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 6500M Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion x360,HP,77490,2.97,Intel Core i5,12,16,DDR4,1000, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+MSI Stealth 17,MSI,489883,4.49,Intel Core i9,20,64,DDR5,2000, SSD,Nvidia GeForce RTX4080,17.3,FALSE,Windows 11 OS
+Dell G15 5521,Dell,99890,3.33,Intel Core i7,20,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3060,15.6,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,52990,3.33,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Asus Vivobook S14,Asus,74990,2.85,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Samsung Galaxy Book2,Samsung,48899,2.78,eration Intel Core,12.81790123,8,LPDDR4,512, NVMe SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Dell Precision 5550,Dell,184999,3.15,Intel Core i7,12,16,DDR4,512, SSD,NVIDIA,15.6,FALSE,Windows 10 OS
+iBall Excelance CompBook,iBall,8000,3.94,Intel Atom Quad,12.81790123,2,DDR3,32, Hard Disk,Intel HD Graphics,11.6,FALSE,Windows 10 OS
+Asus Vivobook 15,Asus,67990,2.87,Intel Core 5,12,16,DDR4,512, SSD,Integrated Intel Graphics,15.6,FALSE,Windows 11 OS
+MSI Katana A17,MSI,119990,3.26,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,297758,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA Geforce RTX 4080,16,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,85990,2.83,Intel Core 7,12,16,LPDDR4X,512, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+Xiaomi Redmi Book,Xiaomi,69990,3.32,Intel Core Ultra,18,32,LPDDR5X,1000, SSD,Intel  ARC Graphics,16,FALSE,Windows 11 OS
+Xiaomi Redmi Book,Xiaomi,59990,2.89,Intel Core Ultra,18,16,LPDDR5X,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo Legion Y9000K,Lenovo,349990,4.51,Intel Core i9,32,64,DDR5,2000, SSD,NVIDIA GeForce RTX 4090,16,FALSE,Windows 11 OS
+HP Pavilion Plus,HP,70490,2.86,Intel Core i5,12,16,LPDDR5X,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo ThinkPad P14s,Lenovo,109990,3.28,AMD Ryzen 7,16,32,LPDDR5X,512, SSD,AMD Radeon Integrated Graphics,14,FALSE,Windows 11 OS
+HP Envy x360,HP,86990,2.98,AMD Ryzen 5,12,16,LPDDR5,512, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+HP Pavilion 15,HP,55990,3.19,AMD Ryzen 5,12,16,DDR4,1000, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,59390,2.9,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook Y2,Infinix,24990,3.04,Intel Core i3,4,8,LPDDR4X,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Lenovo V15 G4,Lenovo,33990,3.05,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Envy x360,HP,105990,2.8,Intel Core Ultra,14,16,LPDDR5,512, SSD,Intel Integrated Intel Graphics,14,TRUE,Windows 11 OS
+Asus Zenbook 14,Asus,149990,2.76,Intel Core Ultra,22,16,LPDDR5X,512, SSD,Intel Arc Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,35490,3.03,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15APH8,Lenovo,98790,3.16,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Lenovo V15 G4,Lenovo,24790,3.2,AMD Athlon Silver,2,8,LPDDR5,512, SSD,AMD Radeon 610M,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,39999,3.28,AMD Ryzen 5,12,16,DDR4,1000, SSD,AMD Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,52850,3.11,AMD Ryzen 5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Zebronics Pro Series,Zebronics,23990,3.06,Intel Core i3,8,8,LPDDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16,Asus,80739,2.84,Intel Core i9,20,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Dell Inspiron 15,Dell,52249,2.93,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Graphics,15.6,FALSE,Windows 11 OS
+HP 15S FQ5202TU,HP,48990,2.77,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,85990,3.35,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,81990,3.31,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,16.1,FALSE,Windows 11 OS
+HP Victus 15,HP,79990,3.24,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15APH8,Lenovo,79990,3.19,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,126499,3.3,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Asus ROG Zephyrus,Asus,119000,3.31,Intel Core i7,20,16,DDR4,1000, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Walker NU14A1 Laptop,Walker,12990,3.36,Intel Celeron ,2,4,DDR4,128, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+HP Pavilion Plus,HP,72490,2.85,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Infinix Zerobook ZL513,Infinix,49990,2.94,Intel Core i5,16,16,LPDDR5X,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,72990,3.26,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5630,Dell,72990,2.85,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Acer Aspire 3,Acer,31990,2.92,Intel Core i3,8,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook X2,Infinix,25990,3.02,Intel Core i3,4,8,LPDDR4X,512, SSD,Intel Integrated UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo V14 G3,Lenovo,27999,2.78,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,DOS OS
+Asus Vivobook 15,Asus,56990,3.06,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,70490,2.86,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,114990,3.19,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Acer Extensa EX215,Acer,31990,3.07,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Omen 17,HP,195999,3.86,Intel Core i9,24,32,DDR5,2000, SSD,NVIDIA GeForce RTX 3080Ti,17.3,FALSE,Windows 11 OS
+HP Pavilion 15s,HP,51990,2.76,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+Dell G15 5525,Dell,93003,3.17,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3060,15.6,FALSE,Windows 11 OS
+Dell G15 5520,Dell,71990,3.26,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,84700,2.83,Intel Core i7,16,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,162990,2.91,Qualcomm X Elite,12.81790123,32,LPDDR5X,1000, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Lenovo ThinkPad E14,Lenovo,96990,2.81,Intel Core i7,12,16,DDR4,512, SSD,Intel Iris Xe Graphics comes,14,FALSE,Windows 11 OS
+Lenovo V14 82TSA0CWIH,Lenovo,55490,2.74,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,49990,2.94,Intel Core 3,8,16,DDR4,512, SSD,Integrated Intel Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V14 G3,Lenovo,44990,2.8,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+HP Victus 15,HP,74490,3.26,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Cyborg 15,MSI,114990,3.32,Intel Core Ultra,22,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI Raider GE78,MSI,299990,3.83,Intel Core i9,32,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4080,17,FALSE,Windows 11 OS
+Chuwi HeroBook Plus,Chuwi,18990,3.15,Intel Celeron ,2,8,DDR3,256, SSD,Intel HD Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,105990,3.33,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,16.1,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,138990,2.89,Intel Core 7,12,16,LPDDR5,1000, SSD,Intel Graphics,15.6,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,163990,2.75,Intel Core Ultra,22,16,LPDDR5X,512, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,114990,2.79,Intel Core 5,12,16,LPDDR5,512, SSD,Intel Graphics,15.6,TRUE,Windows 11 OS
+Dell Inspiron 5620,Dell,64990,2.88,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated,16,FALSE,Windows 11 OS
+MSI Prestige 16,MSI,169990,3.62,Intel Core Ultra,22,32,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Asus Zenbook S13,Asus,139990,3.23,Intel Core Ultra,14,32,LPDDR5X,1000, SSD,Intel Integrated Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+MSI Prestige 16,MSI,119990,2.9,Intel Core Ultra,22,16,LPDDR5,1000, SSD,Intel Integrated Arc,16,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,171990,3.21,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,149990,2.76,Intel Core Ultra,22,16,LPDDR5X,512, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Asus Zenbook S13,Asus,129990,2.9,Intel Core Ultra,14,16,LPDDR5X,1000, SSD,Intel Integrated Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+HP Envy x360,HP,108999,2.79,Intel Core Ultra,14,16,LPDDR5,512, SSD,Integrated Intel Graphics,14,TRUE,Windows 11 OS
+Asus VivoBook 15,Asus,30990,2.87,Intel Pentium Gold,4,8,DDR4,256, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+HP 15 fd0221TU,HP,60799,2.89,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+Asus Zenbook 14,Asus,102900,2.92,Intel Core Ultra,18,16,LPDDR5X,1000, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+HP Pavilion x360,HP,54990,2.74,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,TRUE,Windows 11 OS
+Acer Aspire Lite,Acer,38249,3.15,Intel Core i3,8,16,DDR4,1000, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook Y4,Infinix,43990,2.98,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,54990,2.91,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IRX9,Lenovo,102990,3.21,Intel Core i7,12.81790123,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,53990,3.16,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,17,FALSE,Windows 11 OS
+Infinix INBook Y4,Infinix,36990,3.03,Intel Core i3,8,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+HP 245 G9,HP,24900,2.99,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,DOS OS
+Xiaomi Redmi Book,Xiaomi,49990,2.94,Intel Core i5,16,16,LPDDR5,512, SSD,Intel ARC Graphics,14,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,129900,2.77,Intel Core i7,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.3,TRUE,Windows 11 OS
+HP 15s fq2510tu,HP,50790,2.93,Intel Core i5,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,106590,3.27,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+HP 15s FR5012TU,HP,38990,2.85,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,103990,3.28,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+Acer Aspire 3,Acer,32490,3.07,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Asus BR1100CKA GJ0746W,Asus,16490,3.22,Intel Celeron ,12.81790123,8,DDR4,128, SSD,Intel UHD Graphics,11.6,FALSE,Windows 11 OS
+HP 250 G9,HP,33690,2.9,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,60999,3.3,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Zebronics ZEB NBC,Zebronics,40990,3,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,81990,3.19,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,17.3,FALSE,Windows 11 OS
+HP Victus 15,HP,59990,3.13,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Chuwi FreeBook Laptop,Chuwi,27990,3.07,Intel Core i3,8,12,LPDDR4,512, SSD,Intel Integrated Intel UHD Graphics,13.5,TRUE,Windows 11 OS
+Lenovo Yoga 7,Lenovo,94190,3.09,AMD Ryzen 7,16,16,DDR5,1000, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+HP Victus 15,HP,54990,3.1,AMD Ryzen 5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP 250 G9,HP,34990,2.89,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Acer TMP214 41,Acer,29990,3.1,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Infinix INBook X3,Infinix,29990,2.95,Intel Core i3,8,8,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,89650,3.35,Intel Core i7,20,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,70490,2.98,Intel Core i5,12,16,DDR4,1000, SSD,Intel Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+MSI Katana 17,MSI,110990,3.32,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,97990,3.21,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,45990,3.37,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,104990,3.2,Intel Core i7,12.81790123,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,113090,3.14,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,73990,3.26,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,17.3,FALSE,Windows 11 OS
+Asus Vivobook 14X,Asus,82500,3.36,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+Asus ROG Zephyrus,Asus,101200,3.16,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,14,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,89990,3.22,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,51990,3.33,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,26990,3.15,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,51915,2.93,Intel Core i5,12,16,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion 15s,HP,62842,2.88,Intel Core i7,12,16,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,69490,2.86,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+ASUS TUF Gaming,ASUS,114000,3.06,AMD Ryzen 9,16,16,DDR5,1000, SSD,AMD Radeon  RX 7600S,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,122990,3.18,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI GF63 Thin,MSI,57990,3.5,Intel Core i7,16,16,DDR4,1256,Hard Disk & SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Asus Vivobook 14X,Asus,99990,3.21,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 3050,14,FALSE,Windows 11 OS
+Acer Predator Helios,Acer,99990,3.21,Intel Core i5,20,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,64990,2.88,Intel Core i5,16,16,DDR4,512, SSD,Integrated Intel iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook Y1,Infinix,22990,3.09,Intel Celeron ,4,8,LPDDR4X,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+HP 14s dy5008TU,HP,38099,2.85,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,33990,3.05,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,31030,2.93,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,35990,3.03,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,64990,2.71,Intel Core i5,12,8,LPDDR4X,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,81990,2.83,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,65990,3.23,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,117990,2.78,Intel Core i7,16,16,LPDDR4X,512, SSD,Intel Iris Xe Graphics,15.6,TRUE,Windows 11 OS
+Dell Inspiron 15,Dell,34980,2.89,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,40689,2.83,Intel Core i3,12,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,60300,3.08,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Chromebook 14a,HP,17990,2.85,Intel Celeron ,2,4,LPDDR4,64, Hard Disk,Intel Integrated UHD Graphics,14,TRUE,Chrome OS
+Lenovo E41 55,Lenovo,18990,3.3,AMD Athlon Pro,2,8,DDR4,256, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+Dell Inspiron 3525,Dell,45390,2.95,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,56990,3.09,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus TUF Dash,Asus,96000,3.34,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,58990,2.9,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 15s du3614TU,HP,46938,2.98,Intel Core i3,4,8,DDR4,1256,Hard Disk & SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3525,Dell,33994,3.05,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,48890,3.13,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,72000,3.21,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050 Ti,15.6,FALSE,Windows 11 OS
+Dell Latitude 3410,Dell,47999,2.58,Intel Core i5,8,8,DDR4,512, SSD,Intel HD,14,FALSE,Ubuntu OS
+HP Spectre x360,HP,146990,3.22,Intel Core i7,12,32,LPDDR4X,1000, SSD,Intel Iris Xe Graphics,13.5,TRUE,Windows 11 OS
+HP Omen 14,HP,174999,3.27,Intel Core Ultra,22,16,LPDDR5X,1000, SSD,NVIDIA GeForce RTX 4060,14,FALSE,Windows 11 OS
+HP Envy x360,HP,120490,3.19,Intel Core i7,12,16,LPDDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,TRUE,Windows 11 OS
+Lenovo Thinkpad E16,Lenovo,42990,2.81,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+HP 15 FC0029AU,HP,41990,2.97,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Honor MagicBook X14,Honor,56990,2.91,Intel Core i5,12,16,LPDDRX4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+MSI Stealth 14,MSI,229990,3.59,Intel Core Ultra,22,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI Cyborg 15,MSI,107990,3.32,Intel Core Ultra,22,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Cyborg 15,MSI,99990,3.33,Intel Core Ultra,18,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Stealth 16,MSI,249990,3.84,Intel Core Ultra,22,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+MSI Prestige 16,MSI,189990,3.61,Intel Core Ultra,22,32,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,122990,2.78,Intel Core 7,12,16,LPDDR5,512, SSD,Intel Graphics,15.6,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,179990,2.87,Intel Core Ultra,22,16,LPDDR5X,1000, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+MSI Prestige 13,MSI,114990,2.91,Intel Core Ultra,22,16,LPDDR5,1000, SSD,Intel Arc Graphics,13.3,FALSE,Windows 11 OS
+MSI Prestige 16,MSI,159990,3.62,Intel Core Ultra,22,32,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,139990,2.76,Intel Core Ultra,22,16,LPDDR5X,512, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,131990,2.77,Intel Core Ultra,18,16,LPDDR5X,512, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,141990,2.76,Intel Core Ultra,18,16,LPDDR5X,512, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,181990,3.2,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+Lenovo Thinkpad E14,Lenovo,79999,2.99,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Raedon Graphics,14,FALSE,Windows 10 OS
+Asus ROG Strix,Asus,289990,3.84,Intel Core i9,32,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4080,16,FALSE,Windows 11 OS
+HP Pavilion 15,HP,60517,3.17,AMD Ryzen 7,16,16,DDR4,1000, SSD,AMD Radeon Radeon,15.6,FALSE,Windows 11 OS
+Acer Swift Go,Acer,83990,2.83,Intel Core Ultra,18,16,LPDDR5X,512, SSD,Intel Integrated ARC Graphics,14,FALSE,Windows 11 OS
+HP Spectre x360,HP,195990,3.6,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,NVIDIA GeForce RTX 4050,16,TRUE,Windows 11 OS
+HP Omen 16,HP,115999,3.26,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+Dell G15 5530,Dell,102099,3.33,Intel Core i7,12.81790123,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IRX9,Lenovo,84990,3.23,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo ThinkBook 14,Lenovo,43990,2.81,Intel Core i3,8,8,DDR5,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+HP 15s fr5010TU,HP,48790,2.78,Intel Core i5,12,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IAX9I,Lenovo,59990,2.72,Intel Core i5,12,8,DDR5,512, SSD,Intel Integrated ARC A530M,15.6,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,52990,3.08,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Spectre x360,HP,174490,3.46,Intel Core Ultra,22,32,LPDDR5X,2000, SSD,Intel Arc Graphics,16,TRUE,Windows 11 OS
+HP 15s fr5011TU,HP,53799,2.92,Intel Core i5,12,16,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,176499,3.27,Intel Core i7,28,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16.1,FALSE,Windows 11 OS
+Chuwi Gemibook X,Chuwi,20990,3.08,Intel  ,4,8,LPDDR5,256, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+Asus VivoBook 14,Asus,43990,2.98,Intel Core i5,8,16,DDR4,512, SSD,Intel Integrated Intel UHD,14,FALSE,Windows 11 OS
+Ultimus Lite NU14U3INC54,Ultimus,15990,3.28,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,59490,2.9,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell G15 5530,Dell,81990,3.36,Intel Core i5,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell ‎G16 7630,Dell,187490,3.27,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,53490,2.92,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel IrisXe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,40490,3.15,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,35999,2.87,Intel Core i3,6,8,LPDDR5,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Ideapad Slim,Lenovo,87190,2.95,Intel Core i7,20,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,57990,2.73,Intel Core i3,8,8,LPDDR5,512, SSD,Intel UHD Graphics,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,64990,3,Intel Core i5,12,16,LPDDR5,1000, SSD,Integrated Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo Ideapad Slim,Lenovo,74190,2.97,Intel Core i5,12,16,LPDDR5,1000, SSD,Integrated Intel UHD Graphics,14,FALSE,Windows 11 OS
+Jio JioBook Cloud,Jio,14999,2.59,Mediatek,12.81790123,4,LPDDR4,64, Hard Disk,Arm Mali-G72 MP3 Graphics,11.6,FALSE,jio
+Acer Aspire 3,Acer,31990,2.92,Intel Core i3,8,8,LPDDR5,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,45100,2.97,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Chromebook CX1500CK,Asus,16990,2.99,Intel Celeron ,2,8,LPDDR4X,128, Hard Disk,Intel Integrated UHD,15.6,FALSE,Chrome OS
+Lenovo Ideapad Gaming,Lenovo,58900,3.08,AMD Ryzen 5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,36990,2.86,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,50390,3.12,AMD Ryzen 5,8,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,94490,3.22,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Microsoft Surface Laptop,Microsoft,78890,2.61,Intel Core i5,12,8,LPDDR5,256, SSD,Intel Iris Xe Graphics,12.4,TRUE,Windows 11 OS
+HP Victus 15,HP,58999,3.13,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP 15s er2004AU,HP,50990,3.09,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,79990,3.32,AMD Ryzen 7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,47990,3.1,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Asus Vivobook 16,Asus,43990,2.98,Intel Core i3,8,16,DDR4,512, SSD,Intel Integrated UHD,16,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,44990,3.37,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650 Max Q,15.6,FALSE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,132190,3.25,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,32290,3.07,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon 610M,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,75000,3.25,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,104990,3.2,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,66990,3.06,AMD Ryzen 7,16,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo Yoga 7,Lenovo,91190,2.94,Intel Core i5,16,16,LPDDR5,1000, SSD,Integrated Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Asus Vivobook Go,Asus,27990,2.92,Intel  ,2,8,DDR4,256, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+HP Omen 17,HP,339999,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4090,17.3,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,48490,3.13,AMD Ryzen 5,8,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Acer One 11,Acer,19990,3.11,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD,11.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,71990,3.09,Intel Core i5,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 3050,17.3,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,80990,2.96,Intel Core i5,16,16,LPDDR5X,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Acer One 11,Acer,17990,3.15,Intel Celeron ,2,8,DDR4,128, SSD,Intel Integrated UHD,11.6,FALSE,Windows 11 OS
+HP 15s fy5006TU,HP,34999,2.89,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,139190,3.29,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+HP Pavilion 14,HP,66990,2.99,Intel Core i5,12,16,DDR4,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Acer TravelMate P2,Acer,47990,3.07,Intel Core i7,8,16,DDR4,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,61712,3.07,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,79990,2.99,AMD Ryzen 7,16,16,DDR5,512, SSD,AMD Radeon RX6550M,15.6,FALSE,Windows 11 OS
+HP 14s dr3002TU,HP,27990,2.98,Intel Celeron ,2,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Asus Vivobook 16,Asus,95689,2.93,Intel Core i9,20,16,DDR4,1000, SSD,Integrated Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Asus Vivobook S14,Asus,72300,3.13,AMD Ryzen 7,16,16,DDR4,1000, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,63889,3.23,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,46490,3.14,AMD Ryzen 5,8,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Vostro 3520,Dell,42990,2.81,Intel Core i5,8,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Vostro 3530,Dell,55600,2.74,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated Graphics,15.6,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,94990,3.34,Intel Core i5,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Dell Vostro 3525,Dell,36990,3.02,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Infinix INBook X2,Infinix,36990,3.16,Intel Core i5,8,16,LPDDR4X,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+HP Victus 15,HP,50490,2.92,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 6500M,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,97000,3.21,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,41990,2.99,Intel Core i3,8,16,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,72490,2.98,Intel Core i5,12,16,DDR4,1000, SSD,Intel Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq3066TU,HP,28990,2.97,Intel Celeron ,2,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,72990,3.21,AMD Ryzen 7,16,16,LPDDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,62190,2.89,Intel Core i5,12,16,LPDDR5,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+HP 255 G9,HP,23999,3.01,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,DOS 3.0 OS
+HP 15s eq2132AU,HP,44800,3.12,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,60190,2.89,Intel Core i5,12,16,LPDDR5,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,45990,3.11,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon 610M Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,35990,3.03,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+HP Victus15 fb0147AX,HP,48990,2.93,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD Radeon RX 6500M,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,83449,2.95,Intel Core i7,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP Victus 15,HP,54990,3.1,AMD Ryzen 5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,62990,3.01,Intel Core i5,12,16,LPDDR5,1000, SSD,Intel Graphics,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,53138,2.92,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Wings Nuvobook S2,Wings,25990,3.02,Intel Core i3,8,8,LPDDR4,512, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+MSI Stealth 16,MSI,278490,3.84,Intel Core i9,20,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Infinix INBook X3,Infinix,43990,2.98,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Infinix INBook X3,Infinix,36990,3.03,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Dell Vostro 3430,Dell,38990,2.85,Intel Core i3,6,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Dell Inspiron 3535,Dell,44990,3.08,AMD Ryzen 5,8,8,LPDDR5,1000, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Dell Vostro 3430,Dell,57990,2.73,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP Victus 15,HP,109490,3.2,Intel Core i7,20,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus VivoBook 14,Asus,35990,2.87,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+HP Omen 16,HP,90990,3.22,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,43990,3.13,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Integrated SoC,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,66990,3.22,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Asus VivoBook 15,Asus,31990,2.92,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fr2515TU,HP,36790,2.87,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,79990,3.24,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Pavilion x360,HP,72990,2.85,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,90990,3.22,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15APH8,Lenovo,116990,3.14,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,132490,3.18,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Lenovo Legion Y9000X,Lenovo,150000,3.63,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+MSI Modern 15,MSI,41790,2.99,Intel Core i5,8,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Acer Nitro 16,Acer,94990,3,AMD Ryzen 7,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Acer Nitro 16,Acer,129990,3.13,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,61625,2.89,Intel Core i5,12,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,86730,2.95,Intel Core i7,16,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,104990,3.2,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,31800,2.87,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,DOS OS
+Lenovo IdeaPad Gaming,Lenovo,63990,3.07,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,41990,3.23,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,66990,2.87,Intel Core i5,12,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook 14X,Asus,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+HP Envy x360,HP,80999,2.83,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,TRUE,Windows 11 OS
+Asus Vivobook 15,Asus,53990,2.75,Intel Core i5,16,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 14 gr0000TU,HP,43990,2.81,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,46400,2.74,AMD Ryzen 7,16,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,DOS OS
+Ninkear A16 Gaming,Ninkear,79999,3.71,AMD Ryzen 7,16,32,DDR5,2000, SSD,AMD Radeon 680M,16,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,57990,3.14,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA Geforce RTX 2050,16,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,70990,3.1,Intel Core i5,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5620,Dell,75990,3.25,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA GeForce MX570,16,FALSE,Windows 11 OS
+HP Pavilion 15,HP,69990,2.86,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Dell XPS 17,Dell,355490,3.57,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,17,TRUE,Windows 11 OS
+Lenovo V15 G3,Lenovo,32780,2.71,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,DOS OS
+MSI Modern 14,MSI,34990,3.05,Intel Core i3,8,16,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+HP Pavilion 15,HP,58800,3.05,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon Vega 8 Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,59990,3.08,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo V14 G3,Lenovo,32490,2.92,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Dell ‎G16 7630,Dell,158990,3.28,Intel Core i7,12.81790123,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+HP Omen 17,HP,156990,3.28,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+Dell Inspiron 15,Dell,39490,2.84,Intel Core i3,6,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo Legion 5,Lenovo,172990,3.61,Intel Core i7,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4090,16,FALSE,Windows 11 OS
+HP Victus 15,HP,62687,3.04,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon RX 5600M,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,59990,3.08,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus VivoBook 14,Asus,38990,3.01,Intel Core i3,4,16,DDR4,512, SSD,Intel Integrated Intel UHD,14,FALSE,Windows 11 OS
+Dell G15 5530,Dell,130990,3.18,Intel Core i7,12.81790123,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Dell ‎G16 7630,Dell,178490,3.27,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Xiaomi Redmi Book,Xiaomi,43990,2.98,Intel Core i5,16,16,DDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Asus Vivobook 15X,Asus,39990,2.84,Intel Core i3,8,8,DDR4,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion x360,HP,89990,2.82,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+Asus TUF Gaming,Asus,109990,3.2,Intel Core i7,20,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,66990,3.28,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,16,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,69990,3.1,Intel Core i7,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,149990,3.29,Intel Core i9,20,16,DDR4,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Asus ROG Flow,Asus,144900,3.24,AMD Ryzen 9,16,16,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4050,13.4,TRUE,Windows 11 OS
+Asus ROG Zephyrus,Asus,114990,3.26,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,14,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,109676,3.32,Intel Core i5,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,198999,3.27,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,47250,2.78,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+HP 15s fr4001TU,HP,51549,2.93,Intel Core i5,8,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+HP 15 fd0013TU,HP,60499,2.89,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,109990,3.32,Intel Core i9,20,16,DDR4,1000, SSD,NVIDIA Geforce RTX 3050,16,FALSE,Windows 11 OS
+Asus Zenbook Pro,Asus,199990,3.27,Intel Core i5,16,16,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4050,14.5,TRUE,Windows 11 OS
+HP Pavilion 15,HP,53999,2.9,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,75990,3.25,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 3050,16,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,55689,3.15,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,17.3,FALSE,Windows 11 OS
+Acer One 14,Acer,32990,2.91,Intel Core i5,8,8,DDR4,512, SSD,‎Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP 15 fc0030AU,HP,43490,3.13,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP 15 eg3036TU,HP,89999,2.94,Intel Core i7,16,16,DDR4,1000, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+HP 15 fd0006TU,HP,41780,2.82,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,52999,3.11,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Acer Predator Helios,Acer,112990,3.19,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Dell Vostro 3425,Dell,37790,3.01,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+MSI Cyborg 15,MSI,55990,3.15,Intel Core i5,12,8,DDR5,512, SSD,Nvidia GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP 15 fc0026AU,HP,33990,3.05,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,107990,3.2,Intel Core i7,20,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus Zenbook 14,Asus,89999,2.82,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Asus Vivobook S15,Asus,109900,2.91,Intel Core i9,20,16,LPDDR5,1000, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,68990,2.86,Intel Core i5,16,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook S14,Asus,58990,2.88,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,14,TRUE,Windows 11 OS
+‎Lenovo V15 G2,Lenovo,20990,2.88,Intel Celeron ,12.81790123,8,DDR4,256, SSD,Intel Integrated Integrated,15.6,FALSE,DOS OS
+Acer Aspire 3,Acer,29990,2.95,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Honor MagicBook X14,Honor,54990,2.91,Intel Core i5,12,16,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,32990,2.91,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+HP 15 fc0028AU,HP,41697,2.98,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Dell Vostro 3425,Dell,49990,3.09,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+Lenovo S14 Gen,Lenovo,45990,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,35090,2.88,Intel Core i5,8,8,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,39499,2.84,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Acer Extensa 15,Acer,29990,2.95,Intel Core i3,8,8,LPDDR5,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+MSI Summit E16,MSI,159990,3.62,Intel Core i7,16,32,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4050,16,TRUE,Windows 11 OS
+MSI Modern 14,MSI,41990,2.99,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,32990,2.91,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,42990,2.97,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,43990,3.13,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,46990,2.94,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,67151,3.22,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo V15 82KDA012iH,Lenovo,33990,3.05,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,40990,3.15,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,33990,3.05,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,124990,2.78,Intel Core i7,16,16,LPDDR5,512, SSD,‎Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,116990,2.78,Intel Core i5,16,16,LPDDR5,512, SSD,‎Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,133990,2.89,Intel Core i7,16,16,LPDDR4X,1000, SSD,Intel Iris Xe Graphics,15.6,TRUE,Windows 11 OS
+Samsung Galaxy Book,Samsung,109990,2.79,Intel Core i5,16,16,LPDDR4X,512, SSD,Intel Iris Xe Graphics,15.6,TRUE,Windows 11 OS
+HP 245 G8,HP,25599,3.18,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+Asus VivoBook 15,Asus,31990,2.92,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,49728,2.92,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 6500M Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq2717TU,HP,36990,2.86,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion Plus,HP,71790,2.86,Intel Core i5,16,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Samsung Galaxy Book,Samsung,69990,2.69,Intel Core i5,12.81790123,8,LPDDR4X,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,49990,3.18,Intel Core i5,8,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+HP 15s ,HP,31890,3.08,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,47790,2.78,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Dell Vostro 3420,Dell,54990,2.91,Intel Core i5,12,16,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+HP Envy x360,HP,80969,2.83,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,13.4,TRUE,Windows 11 OS
+Dell Vostro 3420,Dell,46990,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Microsoft Surface Pro,Microsoft,161300,2.69,Intel Core i7,12,16,LPDDR5,256, SSD,Intel Iris Xe Graphics,13,TRUE,Windows 11 OS
+Microsoft Surface Pro,Microsoft,261990,3.18,Intel Core i7,12,32,LPDDR5,1000, SSD,Intel Iris Xe Graphics,13,TRUE,Windows 11 OS
+Microsoft Surface Pro,Microsoft,102990,2.53,Intel Core i5,12,8,LPDDR5,128, SSD,Intel Iris Xe Graphics,13,TRUE,Windows 11 OS
+Dell G15 5525,Dell,93831,3.17,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3060,15.6,FALSE,Windows 11 OS
+Microsoft Surface Pro,Microsoft,99990,2.57,Intel Core i5,12,8,LPDDR5,256, SSD,Intel Iris Xe Graphics,13,TRUE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,66999,3.02,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon,14,TRUE,Windows 11 OS
+Dell Inspiron 3520,Dell,45990,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5320,Dell,69994,2.86,Intel Core i5,16,16,DDR5,512, SSD,Intel Integrated UHD,13.3,FALSE,Windows 11 OS
+HP Envy x360,HP,75990,2.68,Intel Core i5,12,8,LPDDR4X,512, SSD,Intel Iris X Graphics,13.3,TRUE,Windows 11 OS
+Lenovo V15 82KDA01EIH,Lenovo,29990,3.1,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V14 82KA00G8IH,Lenovo,29990,2.88,Intel Core I3-1115G4,12.81790123,8,DDR4,256, SSD,Intel Integrated INTEL UHD,14.1,FALSE,Windows 11 OS
+Acer One 14,Acer,26990,3.09,AMD Ryzen 3,4,8,DDR4,256, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+HP Victus 15,HP,63999,3.23,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,16.1,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,56990,3.14,Intel Core i7,16,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 10 OS
+HP Pavilion 15s,HP,53990,2.92,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,60479,3.13,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+HP 15s fq5111TU,HP,49999,2.77,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+HP Pavilion 15s,HP,44013,3.13,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,61499,3.12,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Dell G15 5525,Dell,82588,3.19,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,52100,3.08,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon Vega 7 Graphics,16,FALSE,Windows 11 OS
+Dell Vostro 3420,Dell,41899,2.82,Intel Core i5,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Dell Inspiron 7420,Dell,75290,3.08,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce MX550,14,TRUE,Windows 11 OS
+Dell Inspiron 7420,Dell,83990,3.23,Intel Core i7,12,16,DDR4,512, SSD,NVIDIA GeForce MX550,14,TRUE,Windows 11 OS
+MSI Thin GF63,MSI,46990,3.19,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA Geforce GTX1650 Max Q,15.6,FALSE,Windows 10 OS
+HP Pavilion 15s,HP,58990,2.73,Intel Core i5,16,8,DDR4,512, SSD,Intel Integrated Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion 14,HP,76990,2.97,Intel Core i7,12,16,DDR4,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP Pavilion 15s,HP,61999,2.72,Intel Core i5,16,8,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5520,Dell,67990,3.1,Intel Core i5,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell G15 5520,Dell,117490,3.19,Intel Core i7,20,16,DDR5,512, SSD,NVIDIA GeForce RTX 3060,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,76999,3.2,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3060,16.1,FALSE,Windows 11 OS
+Asus BR1100CKA GJ0722W,Asus,15990,3.16,Intel Celeron ,12.81790123,4,DDR4,128, SSD,Intel UHD Graphics,11.6,FALSE,Windows 11 OS
+Asus BR1100CKA GJ0722W,Asus,14490,3.25,Intel Celeron ,12.81790123,4,DDR4,128, SSD,Intel UHD Graphics,11.6,FALSE,Windows 11 OS
+Dell Alienware x15,Dell,245490,3.25,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GEFORCE RTX 3060,15.6,FALSE,Windows 11 OS
+HP Pavilion 15,HP,76600,2.84,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xᵉ Graphics,15.6,FALSE,Windows 11 OS
+HP Pavilion x360,HP,66999,2.87,Intel Core i7,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Dell Vostro 5625,Dell,58990,3.05,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Vega,16,FALSE,Windows 11 OS
+HP 15s eq2144au,HP,38250,3,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP 15s eq2143au,HP,32610,3.07,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Lenovo Legion 5,Lenovo,106305,3.27,AMD Ryzen 7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3060,16,FALSE,Windows 11 OS
+Dell Latitude 5420,Dell,114900,2.79,Intel Core i7,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 10 OS
+HP Pavilion 15,HP,55999,3.1,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 10 OS
+Dell Inspiron 5410,Dell,86999,2.82,Intel Core i7,8,16,DDR4,512, SSD,Intel Iris Xe,14,TRUE,Windows 10 OS
+Avita Liber NS14A8INR671,Avita,38990,3.14,Intel Core i7,8,16,DDR4,1000, SSD,Intel Integrated UHD,14,FALSE,Windows 10 OS
+Microsoft Surface Pro,Microsoft,69000,2.19,Microsoft SQ1 SQ1,12.81790123,8,LPDDR4X,128, SSD,Adreno 685,13,TRUE,Windows 10 OS
+Avita Pura NS14A6,Avita,20490,3.31,AMD Ryzen 5,8,8,DDR4,512, SSD,AMD Radeon Vega 8,14,FALSE,Windows 10 OS
+Apple MacBook Air,Apple,109999,2.42,Intel Core i7,8,8,LPDDR4X,512, SSD,Intel Iris Plus,13.3,FALSE,"Mac 10.15.3	 OS"
+Samsung Galaxy Book,Samsung,59411,2.85,Intel Core i5,12.81790123,8,DDR4,1000, SSD,Intel UHD Graphics,13.3,FALSE,Windows 10 OS
+Apple MacBook Pro,Apple,201498,3.15,Intel Core i9,12.81790123,32,DDR4,2000, SSD,Radeon Pro 5500M,16,FALSE,Mac Catalina OS
+HP EliteBook 840,HP,90464,2.65,Intel Core i5,8,8,DDR4,512, SSD,Integrated UHD Graphics 620,14,FALSE,Windows 10 OS
+Dell Inspiron 5370,Dell,87990,2.99,Intel Core i7,8,8,DDR4,256, SSD,Geforce MX130,13.3,FALSE,Windows 10 OS
+Honor MagicBook X16,Honor,56990,2.74,Intel Core i5,12,8,LPDDR4X,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+Honor MagicBook X14,Honor,54990,2.74,Intel Core i5,12,8,LPDDRX4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo ThinkPad P14s,Lenovo,109990,3.2,Intel Core i7,16,16,LPDDR5X,512, SSD,NVIDIA RTX A500,14,FALSE,Windows 11 OS
+Lenovo ThinkPad P14s,Lenovo,129990,3.18,Intel Core i7,16,16,LPDDR5X,512, SSD,NVIDIA RTX A500,14,FALSE,Windows 11 OS
+Lenovo Thinkpad E16,Lenovo,63490,2.71,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+Infinix INBook Y4,Infinix,37990,2.85,Intel Core i3,8,8,LPDDR4X,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+MSI Commercial 14,MSI,87990,2.82,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,30700,2.94,Intel Celeron ,2,8,DDR4,512, SSD,Intel UHD Graphics 600,15.6,FALSE,Windows 11 OS
+Honor MagicBook X16,Honor,58990,2.9,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+MSI Katana A15,MSI,104990,3.15,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.75,FALSE,Windows 11 OS
+MSI Commercial 14,MSI,109990,3.25,Intel Core i7,20,32,DDR4,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Thin A15,MSI,65990,3.23,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Thin A15,MSI,71990,3.21,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Thin A15,MSI,81990,3.19,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Thin A15,MSI,91990,3.29,AMD Ryzen 7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Thin A15,MSI,99990,3.28,AMD Ryzen 7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI Vector 17,MSI,279990,3.84,Intel Core i9,32,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4080,17,FALSE,Windows 11 OS
+Infinix INBook X2,Infinix,32990,2.91,Intel Core i5,8,8,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Modern 15,MSI,69990,2.98,Intel Core i7,20,16,DDR4,1000, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+MSI Modern 15,MSI,79990,2.96,Intel Core i9,20,16,DDR4,1000, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+MSI Modern 15,MSI,59990,2.89,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Chuwi GemiBook Plus,Chuwi,21990,3.05,Intel Celeron ,4,8,LPDDR5,256, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+MSI Stealth 16,MSI,199990,3.6,Intel Core Ultra,22,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+MSI Modern 14,MSI,58990,2.9,Intel Core i5,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,73882,3.26,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Modern 14,MSI,78990,2.96,Intel Core i9,20,16,DDR4,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,68990,2.99,Intel Core i7,16,16,DDR4,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Prestige 13,MSI,99990,2.93,Intel Core Ultra,18,16,LPDDR5,1000, SSD,Intel Arc Graphics,13.3,FALSE,Windows 11 OS
+Asus TUF F17,Asus,65990,3.28,Intel Core i5,12,16,DDR6,512, SSD,NVIDIA GeForce RTX 2050,17.3,FALSE,Windows 11 OS
+Dell G15 5530,Dell,79990,3.24,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo ThinkPad E14,Lenovo,73990,2.85,Intel Core i5,12,16,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo Thinkbook 15,Lenovo,55990,2.91,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 14 ew0153TU,HP,97990,2.93,Intel Core i7,12,16,LPDDR5X,1000, SSD,Intel Integrated Intel Iris Xe,14,FALSE,Windows 11 OS
+Chuwi Ubook X,Chuwi,39990,2.92,Intel Core i5,8,12,LPDDR3,512, SSD,Intel UHD Graphics,12,FALSE,Windows 11 OS
+Infinix INBook Y4,Infinix,52990,2.92,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+Lenovo Ideapad Slim,Lenovo,28190,2.59,Intel Pentium ,4,4,LPDDR4X,128, Hard Disk,Intel UHD Graphics,14,FALSE,Chrome OS
+HP Pavilion 15,HP,58500,3.05,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,50990,3.29,AMD Ryzen 5,8,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo ThinkPad E1,Lenovo,49990,2.77,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,49199,3.07,Intel Core i5,12,16,DDR4,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Spectre x360,HP,159990,3.21,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+HP Spectre x360,HP,159990,3.21,Intel Core Ultra,22,32,LPDDR5X,1000, SSD,Intel Arc Graphics,14,TRUE,Windows 11 OS
+Acer Nitro V,Acer,73990,3.26,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,43990,2.81,Intel Core i3,6,8,LPDDR5,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Chuwi CoreBook X,Chuwi,34990,3.05,Intel Core i5,8,16,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Avita Liber Liber,Avita,32971,3,AMD Ryzen 5,12,8,DDR4,256, SSD,AMD Radeon,14,FALSE,Windows 11 OS
+Lenovo ThinkPad X1,Lenovo,145000,2.72,Intel Core i5,5,8,LPDDR4X,1000, SSD,Intel Integrated Graphics,13.3,TRUE,Windows 10 OS
+HP Envy x360,HP,80640,2.82,AMD Ryzen 5,12,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,TRUE,Windows 11 OS
+MSI Prestige 13,MSI,113999,2.79,Intel Core Ultra,22,16,LPDDR5,512, SSD,Intel Arc Graphics,13.3,FALSE,Windows 11 OS
+HP Omen 16,HP,151490,3.16,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Lenovo Ideapad Flex,Lenovo,53990,2.75,Intel Core i3,8,8,LPDDR4,512, SSD,Intel Integrated UHD,14,TRUE,Windows 11 OS
+Acer Predator Triton,Acer,199999,3.86,Intel Core Ultra,22,32,LPDDR5X,2000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo V14 82KAA0AMIH,Lenovo,45990,2.59,Intel Core i5,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,DOS OS
+Lenovo IdeaPad Slim,Lenovo,48900,2.78,Intel Core i5,8,8,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Chromebook CX3402CB,Asus,34990,2.58,Intel Core i3,8,8,LPDDR5,128, Hard Disk,Intel Integrated UHD,14,FALSE,Chrome OS
+Lenovo V14 82KAA01QIH,Lenovo,45990,2.79,Intel Core i5,8,8,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 10 OS
+Acer Nitro V16,Acer,149900,3.24,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,62990,2.88,Intel Core i7,12,16,DDR4,512, SSD,Integrated Intel IrisXe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,81400,2.96,Intel Core i5,16,16,LPDDR5X,1000, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Dell Inspiron 3535,Dell,34450,3.04,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,26490,2.94,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+HP 15s EQ2084AU,HP,51980,3.08,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,34990,2.89,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Thinkpad E14,Lenovo,67900,2.49,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,DOS OS
+Lenovo IdeaPad Slim,Lenovo,31500,2.86,Intel Core i3,4,8,DDR4,256, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+MSI CreatorPro X17,MSI,519990,5,Intel Core i9,32,64,DDR5,4000, SSD,NVIDIA GeForce RTX 3500 Ada,17,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,50000,3.06,Intel Core i5,8,16,DDR4,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo ThinkPad X1,Lenovo,218990,2.85,Intel Core i7,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,43990,2.81,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Avita Pura S101,Avita,19299,3.13,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,123190,2.9,Intel Core i7,16,16,LPDDR5,1000, SSD,Intel Integrated Iris Xe,13.3,TRUE,Windows 11 OS
+Acer Aspire 5,Acer,46990,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphic,15.6,FALSE,Windows 11 OS
+Avita Pura S102,Avita,20035,3.17,Intel Celeron ,2,8,DDR4,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Spectre x360,HP,154999,2.75,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Iris Xe Graphics,13.5,TRUE,Windows 11 OS
+HP ProBook 440,HP,79000,2.84,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,44990,2.92,Intel Core i5,8,8,DDR4,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo S14 Gen,Lenovo,48989,2.57,Intel Core i5,12,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,DOS OS
+Acer Aspire 5,Acer,59900,2.89,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,88990,2.65,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Integrated,14,TRUE,Windows 11 OS
+HP Pavilion Plus,HP,124999,3.31,Intel Core i7,20,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Gigabyte G5 MF,Gigabyte,72990,3.09,Intel Core i5,16,8,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,52400,3.33,Intel Core i5,8,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,66990,2.99,Intel Core i5,12,16,DDR4,1000, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+MSI Vector GP68,MSI,184990,3.27,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo Yoga 7,Lenovo,91190,2.82,Intel Core i5,16,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Asus Vivobook 15X,Asus,58990,2.97,AMD Ryzen 5,12,16,DDR4,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15X,Asus,62940,3.03,AMD Ryzen 7,16,16,DDR4,512, SSD,Integrated AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V15 G4,Lenovo,34821,3.04,AMD Ryzen 5,8,8,DDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,37800,2.86,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad 3,Lenovo,32990,2.84,Intel Core i3,8,8,DDR4,256, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,45890,3.11,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,53499,3.04,Intel Core i7,8,16,DDR4,1000, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,76990,3.2,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Acer Chromebook CB314,Acer,23990,2.75,Intel Celeron ,2,8,LPDDR4X,64, SSD,Intel Integrated UHD,14,FALSE,Chrome OS
+Dell Inspiron 3520,Dell,36490,2.87,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,47974,2.72,Intel Core i3,8,8,LPDDR5,256, SSD,Intel UHD Graphics,14,TRUE,Windows 11 OS
+Ultimus Pro NU14U3INC43B,Ultimus,13990,3.28,Intel Celeron ,2,4,DDR4,128, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+Zebronics Pro Series,Zebronics,31990,2.92,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated,15.6,FALSE,Windows 11 OS
+Acer Nitro V,Acer,65990,3.28,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP 15s fy5007TU,HP,49980,2.77,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Ultimus Lite NU14U4INC54,Ultimus,15990,3.28,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+Acer Nitro V,Acer,63990,3.12,Intel Core i5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,161039,3.16,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+HP Pavilion Plus,HP,89990,3.09,AMD Ryzen 7,16,16,LPDDR5X,1000, SSD,AMD Radeon 780M Graphics,14,FALSE,Windows 11 OS
+HP Omen 17,HP,151990,3.16,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,80190,2.84,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,51990,3.11,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,37990,3.01,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,61786,3.29,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,17.3,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,58990,2.73,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,73990,2.85,Intel Core i5,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,164190,3.23,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo Yoga Slim,Lenovo,106000,2.8,Intel Core i7,20,16,LPDDR5X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo IdeaPad 5,Lenovo,87774,3.18,AMD Ryzen 7,16,16,LPDDR5,512, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Lenovo Legion 5,Lenovo,103395,3.15,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3060,16,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,39990,2.99,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon 610M,15.6,FALSE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,298990,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA Geforce RTX 4080,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,72190,2.86,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI CreatorPro Z16,MSI,449990,4.5,Intel Core i9,12.81790123,64,DDR5,2000, SSD,NVIDIA RTX 3000 Ada,16,FALSE,Windows 11 OS
+Lenovo Yoga 7,Lenovo,116190,3.11,Intel Core i7,16,16,LPDDR5,1000, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,87990,2.82,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+Lenovo IdeaPad 3,Lenovo,32690,2.85,Intel Core i3,8,8,DDR4,256, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Acer C734 NX.H8VSI.004,Acer,19990,2.77,Intel Celeron Dual,2,4,LPDDR4X,64, Hard Disk,Intel Integrated UHD,11.6,FALSE,Chrome OS
+Lenovo IdeaPad Slim,Lenovo,32500,3.07,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,86990,3.3,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX RTX 3050,15.6,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,60999,3.3,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 15,Dell,44890,2.8,Intel Core i5,8,8,DDR4,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,39990,2.99,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon 610M,15.6,FALSE,Windows 11 OS
+Asus Vivobook S14,Asus,68990,3.14,AMD Ryzen 5,12,16,DDR4,1000, SSD,AMD Radeon Graphics,14,TRUE,Windows 11 OS
+HP Zbook FireFly,HP,89900,2.82,Intel Core i5,8,16,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Dell Latitude 14,Dell,89990,2.82,Intel Core i7,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP 255 G9,HP,20990,3.15,AMD Athlon,2,4,DDR4,256, SSD,AMD Integrated,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,26990,3.15,AMD Athlon,2,8,LPDDR5,512, SSD,AMD Radeon 610M Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V14 G4,Lenovo,28990,3.12,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon,14,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,44900,2.8,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus ROG Strix,Asus,89850,3.22,Intel Core i5,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+MSI Creator Z16,MSI,239990,3.59,Intel Core i7,24,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo Thinkpad E15,Lenovo,57990,2.9,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+HP 240 G9,HP,64490,2.71,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,64990,3.03,AMD Ryzen 5,12,16,LPDDR4X,512, SSD,AMD Radeon AMD,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,42490,2.82,Intel Core i3,6,8,LPDDR5,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP ZBook Firefly,HP,124000,2.9,Intel Core i7,12,16,DDR5,1000, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Lenovo IdeaPad 3,Lenovo,35232,2.88,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,66450,3,Intel Core i5,12,16,DDR4,1000, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,47490,2.95,Intel Core i5,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,35499,3.05,Intel Core i3,4,16,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,50990,3.17,Intel Core i5,8,8,DDR4,512, SSD,NVIDIA GeForce GTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo Yoga 6,Lenovo,86190,3.1,AMD Ryzen 7,16,16,LPDDR4X,1000, SSD,AMD Radeon Graphics,13.3,TRUE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,64990,3.03,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon,14,TRUE,Windows 11 OS
+Ultimus Neo NU14U3INT54B,Ultimus,22000,3.05,Intel Core i3,4,8,DDR4,256, SSD,Intel Integrated Iris,14.1,FALSE,Windows 11 OS
+Microsoft Surface Laptop,Microsoft,89990,2.75,Intel Core i5,12,16,LPDDR5,256, SSD,Intel Iris Xe Graphics,12.4,TRUE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,128990,3.13,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,107990,2.92,Intel Core i7,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,114190,3.14,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,52940,3.16,Intel Core i5,8,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+HP Pavilion x360,HP,89990,2.82,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo Yoga Pro,Lenovo,104900,2.92,Intel Core i7,20,16,LPDDR5,1000, SSD,Integrated Intel Iris Xe Graphics,14.5,FALSE,Windows 11 OS
+HP 15 fc0027AU,HP,36990,3.02,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Lenovo ThinkBook 15,Lenovo,69990,3.01,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon AMD,16,FALSE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,130990,3.13,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+HP Spectre 17,HP,415000,2.82,Intel Core i7,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,17,TRUE,Windows 11 OS
+Asus VivoBook 15,Asus,26100,3.02,Intel Celeron ,2,8,DDR4,512, SSD,Intel Integrated UHD 600,15.6,FALSE,Windows 11 OS
+Fujitsu CH‎ 4ZR1L82434,Fujitsu,69990,2.86,Intel Core i7,12,16,DDR5,512, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+Fujitsu CH‎ 4ZR1L82433,Fujitsu,59806,2.89,Intel Core i5,12,16,DDR5,512, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+Asus Vivobook 15X,Asus,60890,3.17,AMD Ryzen 7,16,16,DDR4,1000, SSD,Integrated AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Acer Swift Go,Acer,70990,2.86,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,50990,2.93,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Acer Nitro V,Acer,75990,3.08,Intel Core i5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,60299,3.08,AMD Ryzen 5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo Ideapad 3,Lenovo,36890,2.87,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 250 G9,HP,49990,2.77,Intel Core i5,12,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Ideapad Slim,Lenovo,74490,2.97,Intel Core i5,16,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,69990,3.34,AMD Ryzen 5,12,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,73990,3.33,AMD Ryzen 7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,82990,3.36,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,38990,2.85,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire 7,Acer,51990,3.16,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,57490,2.86,Intel Core i5,12,8,DDR4,1000, SSD,Intel Integrated Integrated Intel® UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo Legion 9i,Lenovo,399999,3.57,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4090,16,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,90990,3.35,Intel Core i7,20,16,DDR5,1000, SSD,‎NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Asus Chromebook CX1400FK,Asus,25751,2.62,Intel Celeron ,2,4,LPDDR4X,64, SSD,Intel Integrated UHD,14,TRUE,Chrome OS
+Asus Chromebook CX1400CK,Asus,14990,3,Intel Celeron ,2,4,LPDDR4X,64, SSD,Intel Integrated UHD,14,FALSE,Chrome OS
+Asus Chromebook CX1500CK,Asus,15990,2.94,Intel Celeron ,2,4,LPDDR4X,64, SSD,Intel Integrated UHD,15.6,FALSE,Chrome OS
+Asus Chromebook CX1500CK,Asus,22500,2.71,Intel Celeron ,2,4,LPDDR4X,128, SSD,Intel Integrated UHD,15.6,FALSE,Chrome OS
+Asus Vivobook 16,Asus,40739,2.83,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,16,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,26490,2.94,Intel Celeron ,2,8,DDR4,256, SSD,Integrated Intel UHD Graphics 600,15.6,FALSE,Windows 11 OS
+Gigabyte G6 KF,Gigabyte,130000,3.18,Intel Core i7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Gigabyte G5 KF,Gigabyte,86990,3.06,Intel Core i5,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Flex,Lenovo,59190,2.73,Intel Core i3,8,8,LPDDR4X,512, SSD,Intel Integrated UHD Graphics,14,TRUE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,62190,2.89,Intel Core i5,12,16,LPDDR5,512, SSD,Intel UHD Graphics,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,69190,3.02,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Integrated SoC,14,FALSE,Windows 11 OS
+Acer Predator Helios,Acer,179990,3.27,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,61190,3.04,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Integrated SoC,14,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,92990,3.22,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,42990,2.97,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon 610M Graphics,15.6,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,43400,2.61,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,DOS OS
+Asus Vivobook 16X,Asus,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,67990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Asus Vivobook 14X,Asus,69990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,76990,3.25,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA Geforce RTX 4050,16,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,62990,3.29,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Katana 15,MSI,85990,3.23,Intel Core i7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Acer TMP214 41,Acer,34990,3.21,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Asus VivoBook 15,Asus,35990,2.87,Intel Core i3,8,8,DDR4,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,68800,3.22,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050 GPU,15.6,FALSE,Windows 11 OS
+Lenovo V14 82KAA055IH,Lenovo,46990,2.58,Intel Core i5,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,DOS OS
+Dell Vostro 3520,Dell,36990,2.86,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,52990,3.33,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 3,Lenovo,48990,3.1,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,153490,3.16,Intel Core i7,24,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,16.1,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,58850,3.13,Intel Core i5,8,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,57400,3.26,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 2050,15.6,FALSE,Windows 11 OS
+HP 15S EQ1550AU,HP,34000,3.05,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Go,Asus,35990,3.03,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Wings Nuvobook S1,Wings,23990,3,Intel Core i3,8,8,LPDDR4,256, SSD,Intel Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire 3,Acer,39990,2.84,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,70190,2.86,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,16,FALSE,Windows 11 OS
+Lenovo IdeaPad 3,Lenovo,36490,2.87,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,56990,3.5,Intel Core i5,12,16,DDR4,1256,Hard Disk & SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,61990,3.55,Intel Core i5,12,16,DDR4,1512,Hard Disk & SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Ultimus Elite NU14U3INF5,Ultimus,29990,2.95,Intel Core i5,8,8,DDR4,512, SSD,Intel Integrated Iris,14.1,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,67190,2.87,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,84190,2.83,Intel Core i7,20,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,36399,2.87,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,47460,2.91,Intel Core i3,6,8,DDR4,1000, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo V15 82KB00RJIH,Lenovo,55990,2.91,Intel Core i5,8,16,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,82990,2.95,Intel Core i5,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Dell Inspiron 13,Dell,105999,2.92,Intel Core i7,16,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+HP Victus 15,HP,68999,3.22,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,76990,2.8,Intel Core i5,12,8,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+MSI Katana 17,MSI,134990,3.3,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,17.3,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,90990,3.35,Intel Core i7,16,16,DDR4,1000, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+HP Victus ,HP,99990,3.21,Intel Core i5,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,50990,3.34,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,47990,3.19,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Pulse 17,MSI,128990,3.13,Intel Core i7,20,8,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+MSI Pulse 17,MSI,183990,3.27,Intel Core i9,20,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,17.3,FALSE,Windows 11 OS
+Lenovo Ideapad Slim,Lenovo,35900,2.88,Intel Core i3,4,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,131990,3.18,Intel Core i5,20,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,16.1,FALSE,Windows 11 OS
+HP Omen 16,HP,237990,3.59,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16.1,FALSE,Windows 11 OS
+HP Victus 15,HP,50990,2.92,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 6500M,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,37990,2.85,Intel Core i3,8,8,DDR4,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,56190,3.06,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Integrated SoC,14,FALSE,Windows 11 OS
+Chuwi CoreBook X,Chuwi,32999,3.08,Intel Core i5,8,16,LPDDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Envy x360,HP,101990,2.8,Intel Core i7,12,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,13.3,TRUE,Windows 11 OS
+HP Dragonfly G4,HP,231746,2.73,Intel Core i7,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.5,TRUE,Windows 11 OS
+MSI Katana 15,MSI,82890,3.07,Intel Core i7,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,69000,2.86,Intel Core i5,16,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Acer Predator 16,Acer,159990,3.28,Intel Core i9,32,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,69990,3.22,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,77990,3.25,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,16,FALSE,Windows 11 OS
+Dell Inspiron 3520,Dell,35940,2.88,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Victus 15,HP,54559,3.07,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon RX 6500M Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,69990,2.86,Intel Core i5,12,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI Prestige 16,MSI,119990,3.31,Intel Core i7,20,16,LPDDR5,1000, SSD,NVIDIA GeForce RTX 2050,16,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,85990,3.23,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Gigabyte Aorus 15,Gigabyte,119990,3.02,Intel Core i5,16,8,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,56990,2.91,Intel Core i5,12,16,DDR4,512, SSD,Intel Iris Xe,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 15APH8,Lenovo,92990,3.17,AMD Ryzen 7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Vector GP78HX,MSI,344990,3.83,Intel Core i9,32,32,DDR5,2000, SSD,NVIDIA GeForce RTX 4090,17,FALSE,Windows 11 OS
+MSI Vector GP68HX,MSI,284990,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4080,16,FALSE,Windows 11 OS
+Lenovo LOQ 15IRH8,Lenovo,100190,3.21,Intel Core i7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+HP 240 G8,HP,48981,2.77,Intel Core i3,4,8,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Acer Nitro 5,Acer,65990,3.11,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,34790,3.04,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Graphics,15.6,FALSE,Windows 11 OS
+Lenovo LOQ 2023,Lenovo,89999,3.05,Intel Core i5,12,8,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5330,Dell,84490,2.83,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+Lenovo Yoga Book,Lenovo,222990,2.85,Intel Core i7,12,16,PDDR5X,1000, SSD,Intel Iris Xe Integrated Graphics,13.3,TRUE,Windows 11 OS
+Dell XPS 15,Dell,257490,3.25,Intel Core i7,20,16,DDR5,1000, SSD,NVIDIA RTX 4050,15.6,TRUE,Windows 11 OS
+Dell Inspiron 5330,Dell,80490,2.84,Intel Core i7,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,13.3,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,38990,2.85,Intel Core i3,8,8,DDR4,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5518,Dell,64799,3.28,Intel Core i5,8,16,DDR4,512, SSD,NVIDIA GeForce MX450,15.6,FALSE,Windows 11 OS
+Lenovo Legion Y9000X,Lenovo,148990,3.63,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Acer Nitro 5,Acer,86990,3.23,Intel Core i7,20,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP Omen 16,HP,199990,3.27,Intel Core i7,24,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16.1,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,89889,2.82,Intel Core i7,20,16,LPDDR5,512, SSD,Integrated Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Dell Alienware X16,Dell,323990,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4080,16,FALSE,Windows 11 OS
+Dell Alienware X16,Dell,453990,3.82,Intel Core i9,20,32,LPDDR5,2000, SSD,NVIDIA GeForce RTX 4090,16,FALSE,Windows 11 OS
+Dell Inspiron 5425,Dell,53990,3.07,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon Radeon,14,FALSE,Windows 11 OS
+Dell Alienware m16,Dell,199290,3.21,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA GEFORCE RTX 4060,16,FALSE,Windows 11 OS
+MSI Modern 15,MSI,34490,2.89,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+MSI Prestige 14H,MSI,89990,3.22,Intel Core i5,16,16,LPDDR5,512, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+Dell Alienware M18,Dell,450990,4.24,Intel Core i9,32,64,LPDDR5,1000, SSD,NVIDIA GeForce RTX 4090,18,FALSE,Windows 11 OS
+HP 15s fy5005TU,HP,40999,2.95,Intel Core i3,8,8,DDR4,1000, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo Yoga 6,Lenovo,74190,3,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon,13.3,TRUE,Windows 11 OS
+Asus Vivobook Pro,Asus,69990,3.22,AMD Ryzen 5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+HP 15s fy5004TU,HP,40300,3,Intel Core i3,8,16,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,85500,3.23,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,42990,2.97,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Integrated SoC,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16X,Asus,70990,3.26,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,16,FALSE,Windows 11 OS
+LG Gram 14,LG,98999,2.8,Intel Core i5,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Dell Alienware m16,Dell,303290,3.78,AMD Ryzen 9,24,32,DDR5,2000, SSD,NVIDIA GEFORCE RTX 4080,16,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,54990,3.15,Intel Core i5,12,8,LPDDR5,512, SSD,NVIDIA GeForce RTX2050,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,49990,2.94,Intel Core i5,8,16,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Asus Vivobook Pro,Asus,76990,3.2,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Fujitsu UH X,Fujitsu,89990,2.82,Intel Core i7,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP ZBook Firefly,HP,126494,3.3,Intel Core i5,12,16,DDR5,1000, SSD,NVIDIA RTX NVIDIA T550,16,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,44990,2.8,Intel Core i5,8,8,DDR4,512, SSD,Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 15s fq3073TU,HP,30590,2.94,Intel Pentium Silver,4,8,DDR4,512, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+HP Chromebook x360,HP,26990,2.6,Intel Celeron ,4,4,DDR4,64, Hard Disk,Intel Integrated UHD 600,14,TRUE,Chrome OS
+HP ZBook Firefly,HP,96700,2.81,Intel Core i5,12,16,DDR5,512, SSD,Intel Iris Xᵉ Graphics,14,FALSE,Windows 11 OS
+LG gram360 16,LG,152499,2.88,Intel Core i7,16,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,16,TRUE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,22490,2.95,Intel Celeron ,2,4,DDR4,256, SSD,Intel UHD Graphics 600,11.6,FALSE,Windows 11 OS
+HP ZBook Studio,HP,373192,3.57,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 3080 Ti,16,FALSE,Windows 11 OS
+HP ZBook Studio,HP,390914,3.57,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 3080 Ti,16,FALSE,Windows 11 OS
+LG Gram 14,LG,117899,2.78,Intel Core i7,16,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Acer Nitro 5,Acer,69990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 2023,Dell,70790,2.98,Intel Core i5,12,16,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+HP 255 G8,HP,23940,3.01,AMD Ryzen 3,4,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,DOS OS
+Dell Inspiron 14,Dell,62990,2.84,Intel Core i5,12,8,LPDDR5,1000, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Dell Vostro 5630,Dell,78980,2.84,Intel Core i5,16,16,DDR4,512, SSD,Intel Iris Xe,16,FALSE,Windows 11 OS
+Infinix Zerobook 13,Infinix,66990,3.33,Intel Core i7,20,32,LPDDR5X,1000, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,58990,2.9,Intel Core i5,12,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad 1,Lenovo,26490,2.94,Intel Celeron ,2,8,DDR4,256, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Lenovo S14 Gen,Lenovo,47450,2.78,Intel Core i5,12,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Lenovo ThinkPad E14,Lenovo,42990,2.97,AMD Ryzen 3,8,8,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+MSI Katana GF66,MSI,69990,3.27,Intel Core i5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+Lenovo ThinkPad E14,Lenovo,69345,2.85,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,51499,3.34,Intel Core i5,8,16,DDR4,512, SSD,NVIDIA GTX 1650,15.6,FALSE,Windows 11 OS
+HP Envy x360,HP,88490,2.82,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,15.6,TRUE,Windows 11 OS
+HP Envy x360,HP,95990,2.81,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Integrated Iris Xe,15.6,TRUE,Windows 11 OS
+HP Envy x360,HP,78490,2.99,AMD Ryzen 5,12,16,LPDDR5,512, SSD,AMD Radeon AMD,15.6,TRUE,Windows 11 OS
+Acer Aspire Lite,Acer,30990,2.87,Intel Core i3,4,8,DDR4,256, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 14 em0025AU,HP,36990,3.02,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,43990,2.81,Intel Core i3,6,8,LPDDR5,512, SSD,Integrated Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+HP 14 em0027AU,HP,48990,3.1,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+HP Envy x360,HP,86490,2.98,AMD Ryzen 5,12,16,LPDDR5,512, SSD,AMD Radeon AMD,15.6,TRUE,Windows 11 OS
+Dell Inspiron 7430,Dell,58490,2.85,Intel Core i3,8,8,LPDDR5,1000, SSD,Intel UHD Graphics,14,TRUE,Windows 11 OS
+HP Pavilion Plus,HP,98990,2.8,Intel Core i7,20,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Lenovo ThinkPad E14,Lenovo,50999,3.09,AMD Ryzen 5,12,16,DDR4,512, SSD,AMD Radeon Graphics,14,FALSE,Windows 11 OS
+Lenovo Thinkbook 15,Lenovo,53990,2.75,Intel Core i5,12,8,DDR4,512, SSD,Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+Acer Aspire Lite,Acer,32149,2.92,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+MSI Stealth 15,MSI,171990,3.28,Intel Core i7,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI Modern 14,MSI,39990,3.01,Intel Core i5,8,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Infinix Zerobook 13,Infinix,59990,2.89,Intel Core i7,20,16,LPDDR5X,512, SSD,Intel Integrated Iris Xe,15.6,FALSE,Windows 11 OS
+Chuwi CoreBook X,Chuwi,24990,3.04,Intel Core i3,4,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+‎HP Zbook Power,HP,115558,3.39,AMD Ryzen 5,12,16,DDR5,1512,Hard Disk & SSD,‎NVIDIA Quadro T600,15.6,FALSE,Windows 11 OS
+Dell Inspiron 3535,Dell,44890,2.95,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+HP Envy 15,HP,117000,2.91,Intel Core i7,12,16,LPDDR5,1000, SSD,Intel Iris X Graphics,15.6,TRUE,Windows 11 OS
+Lenovo Ideapad Flex,Lenovo,58400,2.73,Intel Core i3,8,8,LPDDR4,512, SSD,Intel Integrated UHD,14,TRUE,Windows 11 OS
+HP 14 hr0000AU,HP,48490,3.1,AMD Ryzen 5,8,16,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+HP 14 hr0001AU,HP,44347,2.96,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+HP 15s ey2001AU,HP,56267,3.06,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon Radeon,15.6,FALSE,Windows 11 OS
+Asus ROG Zephyrus,Asus,145999,3.24,AMD Ryzen 9,16,16,DDR5,1000, SSD,NVIDIA GeForce RTX 4050,14,FALSE,Windows 11 OS
+Asus TUF Gaming,Asus,57590,3.26,Intel Core i5,12,8,DDR4,1000, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,84899,2.83,Intel Core i7,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,64190,3.06,AMD Ryzen 5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Lenovo IdeaPad Gaming,Lenovo,54990,3.32,Intel Core i5,8,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+HP 14 em0026AU,HP,43400,2.96,AMD Ryzen 5,8,8,LPDDR5,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+MSI Cyborg 15,MSI,109990,3.2,Intel Core i7,16,16,DDR5,512, SSD,NVIDIA GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+MSI GF75 Thin,MSI,83500,3.07,Intel Core i7,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,17.3,FALSE,Windows 10 OS
+Dell Vostro 5620,Dell,46899,2.79,Intel Core i3,8,8,DDR4,512, SSD,Intel UHD,16,FALSE,Windows 11 OS
+Acer Aspire 3,Acer,31899,2.86,Intel Core i3,8,8,DDR4,256, SSD,Intel UHD Graphics,15.6,FALSE,Windows 11 OS
+Dell Inspiron 16,Dell,53490,2.9,AMD Ryzen 5,12,8,LPDDR5,512, SSD,AMD Radeon Graphics,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,32900,3.06,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon 610M Graphics,15.6,FALSE,Windows 11 OS
+Razer Blade 14,Razer,199990,3.55,AMD Ryzen 9,16,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,14,FALSE,Windows 11 OS
+MSI Thin GF63,MSI,51290,3.34,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+MSI Bravo 17,MSI,107990,3.27,AMD Ryzen 7,16,16,DDR5,1000, SSD,Nvidia GeForce RTX 4060,17.3,FALSE,Windows 11 OS
+Acer Nitro 5,Acer,89990,3.22,Intel Core i7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,99990,3.28,AMD Ryzen 7,16,16,DDR5,1000, SSD,Nvidia GeForce RTX 4060,15.6,FALSE,Windows 11 OS
+Acer Aspire 5,Acer,53990,2.75,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,74990,3.2,AMD Ryzen 5,12,16,DDR5,512, SSD,NVIDIA GeForce RTX 3050,15.6,FALSE,Windows 11 OS
+MSI Bravo 17,MSI,94990,3.29,AMD Ryzen 7,16,16,DDR5,1000, SSD,Nvidia GeForce RTX 4050,17.3,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,77990,3.2,AMD Ryzen 5,12,16,DDR5,512, SSD,Nvidia GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+MSI Bravo 15,MSI,92990,3.29,AMD Ryzen 7,16,16,DDR5,1000, SSD,Nvidia GeForce RTX 4050,15.6,FALSE,Windows 11 OS
+Asus Vivobook 15,Asus,48990,2.77,Intel Core i5,12,8,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 255 G9,HP,38900,3.05,Intel Core i3,8,8,DDR4,512, SSD,AMD Radeon Graphics,15.6,FALSE,Windows 11 OS
+Lenovo ThinkPad T14,Lenovo,94890,2.81,Intel Core i7,16,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,60990,2.72,Intel Core i7,12,8,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+MSI Modern 14,MSI,50990,2.93,Intel Core i7,12,16,DDR4,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Dell XPS 13,Dell,202490,3.2,Intel Core i7,16,32,LPDDR5,1000, SSD,Intel Iris Xe Graphics,13.4,TRUE,Windows 11 OS
+Dell XPS 9530,Dell,279490,3.58,Intel Core i7,20,32,DDR5,1000, SSD,NVIDIA RTX 4050,15.6,TRUE,Windows 11 OS
+Dell XPS 17,Dell,303490,3.58,Intel Core i7,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,17,TRUE,Windows 11 OS
+Lenovo Legion Slim,Lenovo,157544,3.28,Intel Core i5,16,16,DDR5,1000, SSD,NVIDIA Geforce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,286200,3.58,Intel Core i9,32,32,DDR5,1000, SSD,NVIDIA Geforce RTX 4080,16,FALSE,Windows 11 OS
+Lenovo Legion Pro,Lenovo,142190,3.24,AMD Ryzen 7,16,16,DDR5,1000, SSD,NVIDIA Geforce RTX 4060,16,FALSE,Windows 11 OS
+Lenovo Thinkpad E14,Lenovo,119500,2.78,Intel Core i7,12,16,DDR4,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+LG Gram 2,LG,205000,2.5,Intel Core i5,16,8,LPDDR5,256, SSD,Intel Iris Xe Graphics,16,TRUE,Windows 11 OS
+LG Gram 16,LG,142990,3.29,Intel Core i7,16,16,LPDDR5,1000, SSD,Nvidia RTX 3050,16,FALSE,Windows 11 OS
+LG Gram 14,LG,127000,2.61,Intel Core i5,16,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+MSI Modern 14,MSI,52990,3.08,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon AMD,14,FALSE,Windows 11 OS
+Lenovo Thinkbook 14,Lenovo,80999,2.96,Intel Core i5,12,16,DDR4,1000, SSD,Integrated Intel UHD Graphics,14,FALSE,Windows 11 OS
+AXL Vayu Book,AXL,12990,3.36,Intel Celeron ,2,4,DDR4,128, SSD,Intel Integrated UHD Graphics,14.1,FALSE,Windows 11 OS
+Dell Inspiron 3525,Dell,42499,2.97,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon,15.6,FALSE,Windows 11 OS
+AXL Vayu Book,AXL,16990,3.15,Intel Celeron ,2,4,DDR4,256, SSD,Intel Integrated UHD Graphics,15.6,FALSE,Windows 11 OS
+LG UltraPC 16,LG,89799,2.97,AMD Ryzen 7,16,16,DDR4,512, SSD,AMD Radeon 7 Graphics,16,TRUE,Windows 11 OS
+Lenovo S14 82TW0019IH,Lenovo,45490,2.8,Intel Core i5,12,8,DDR4,512, SSD,Integrated Intel UHD Graphics,14,FALSE,Windows 11 OS
+Asus Vivobook 14X,Asus,69990,3.27,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,14,FALSE,Windows 11 OS
+Lenovo V15 G2,Lenovo,33990,2.85,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,DOS OS
+Lenovo ThinkBook 15,Lenovo,39999,2.99,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+Asus VivoBook 15,Asus,35083,2.88,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated Integrated,15.6,FALSE,Windows 11 OS
+Acer Aspire 7,Acer,54499,3.32,Intel Core i5,12,16,DDR4,512, SSD,NVIDIA GeForce GTX 1650,15.6,FALSE,Windows 11 OS
+Lenovo V15 G4,Lenovo,26990,2.95,AMD Ryzen 3,8,8,LPDDR5,512, SSD,AMD Radeon Graphics,15.6,FALSE,DOS OS
+Asus Vivobook Pro,Asus,62990,3.24,AMD Ryzen 7,16,16,DDR4,512, SSD,NVIDIA GeForce RTX 2050,15.6,FALSE,Windows 11 OS
+Dell Alienware x14,Dell,199990,3.27,Intel Core i7,16,16,LPDDR5,1000, SSD,NVIDIA GEFORCE RTX 4050,14,FALSE,Windows 11 OS
+HP Victus 16,HP,56999,3.14,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,16.1,FALSE,Windows 11 OS
+Asus VivoBook 14,Asus,34990,2.89,Intel Core i3,4,8,DDR4,512, SSD,Intel Integrated Intel UHD,14,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,36990,2.86,Intel Core i3,8,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Lenovo V14 G3,Lenovo,46990,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,14,FALSE,Windows 11 OS
+Lenovo V15 G3,Lenovo,45900,2.79,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5630,Dell,79990,2.84,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,16,FALSE,Windows 11 OS
+Lenovo IdeaPad Slim,Lenovo,59990,2.89,Intel Core i7,8,16,DDR4,512, SSD,Integrated Intel Iris Xe Graphics,15.6,FALSE,Windows 11 OS
+HP 15s ey1509AU,HP,27490,3.14,AMD Athlon,2,8,DDR4,512, SSD,AMD Radeon AMD,15.6,FALSE,Windows 11 OS
+HP Victus 16,HP,55999,3.15,Intel Core i5,12,8,DDR4,512, SSD,NVIDIA GeForce GTX 1650,16.1,FALSE,Windows 11 OS
+Dell 2023 ‎G16,Dell,166490,3.62,Intel Core i7,12.81790123,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4060,16,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,80490,2.84,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Dell Inspiron 7430,Dell,99950,2.8,Intel Core i7,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+HP 14s dr3003TU,HP,26800,3,Intel Pentium Silver,4,8,DDR4,512, SSD,Intel UHD Graphics,14,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,67890,2.87,Intel Core i5,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Dell Inspiron 7430,Dell,73990,2.68,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,TRUE,Windows 11 OS
+Dell Inspiron 5430,Dell,88990,2.82,Intel Core i7,12,16,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+Infinix INBook X2,Infinix,34990,3.05,Intel Core i5,8,16,LPDDR4X,512, SSD,Intel Integrated Iris Xe,14,FALSE,Windows 11 OS
+Dell Inspiron 3530,Dell,63220,2.71,Intel Core i5,12,8,DDR4,512, SSD,Intel Integrated UHD,15.6,FALSE,Windows 11 OS
+Dell Inspiron 5430,Dell,58990,2.73,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,14,FALSE,Windows 11 OS
+MSI Creator Z17,MSI,247999,3.59,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,17,FALSE,Windows 11 OS
+MSI Stealth 16,MSI,292990,3.58,Intel Core i9,20,32,DDR5,1000, SSD,NVIDIA GeForce RTX 4070,16,FALSE,Windows 11 OS
+HP Victus 15,HP,58800,2.88,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon RX 5600M,15.6,FALSE,Windows 11 OS
+Asus Vivobook 16,Asus,54999,2.9,AMD Ryzen 5,12,8,DDR4,512, SSD,AMD Radeon AMD,16,FALSE,Windows 11 OS
+Dell Inspiron 7630,Dell,94490,2.64,Intel Core i5,12,8,LPDDR5,512, SSD,Intel Iris Xe Graphics,16,TRUE,Windows 11 OS
