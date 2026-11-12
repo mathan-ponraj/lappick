@@ -4,125 +4,128 @@
 
 ### Find the right laptop with data, not guesswork.
 
+**A live laptop discovery and recommendation platform built for smarter buying decisions.**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-2C7A7B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recommendation_System-8E44AD?style=for-the-badge" />
 </p>
-
-<br/>
 
 <a href="https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_DEMO-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
-<br/><br/>
-
-*An interactive machine learning application for smarter laptop recommendations.*
-
 </div>
 
 ---
 
-## About the Project
+## About LapPick
 
-LapPick is a machine learning-based laptop recommendation system that helps users find suitable laptops based on their budget, brand, RAM, storage, and storage type requirements.
+LapPick is a laptop discovery and recommendation platform that helps users find suitable laptops based on their budget, usage, and technical requirements.
 
-It uses an **XGBoost regression model** to predict laptop ratings and ranks matching laptops based on their predicted performance.
+It retrieves laptop listings from Croma through the API.SH API, processes product specifications, and ranks suitable options using a weighted recommendation approach.
 
-The trained model is integrated into a Streamlit application to deliver an interactive recommendation experience.
+The goal is simple: make laptop research easier by bringing product discovery, personalised recommendations, and side-by-side comparisons into one application.
 
 ## Key Features
 
-* Budget-based laptop filtering.
-* Brand and specification-based recommendations.
-* XGBoost-powered rating prediction.
-* Top 5 matching laptop recommendations.
-* Interactive Streamlit interface.
-* CSV export for recommended laptops.
+- **Personalised Recommendations:** Find laptops based on budget, usage, RAM, storage, and brand preferences.
+- **Live Product Listings:** Retrieve laptop product information through API integration.
+- **Smart Filtering:** Filter products using price, specifications, keywords, and hardware requirements.
+- **Laptop Comparison:** Compare up to four shortlisted laptops side by side.
+- **Similar Product Discovery:** Identify similar laptops using cosine similarity on product specifications.
+- **Product Insights:** View pricing, discounts, ratings, processor details, and other available specifications.
+- **CSV Export:** Download laptop listing data for further analysis.
 
-## Project Workflow
+## How It Works
 
-1. **Data Exploration** – Analyzed laptop prices, brands, RAM, storage, ratings, and other available features.
-2. **Data Preprocessing** – Handled missing values, capped extreme prices, encoded categorical features, and scaled numerical features.
-3. **Feature Engineering** – Prepared numerical and categorical variables for model training.
-4. **Model Training** – Developed an XGBoost regression model to predict laptop ratings.
-5. **Model Evaluation** – Evaluated performance using RMSE and R² metrics.
-6. **Recommendation Engine** – Filtered laptops based on user preferences and ranked them using predicted ratings.
-7. **Deployment** – Integrated the trained model into a Streamlit application.
+| Step | Process | Description |
+|---|---|---|
+| 1 | Data Retrieval | Fetch laptop listings through the Croma API provided by API.SH. |
+| 2 | Data Processing | Extract and organise product details and technical specifications. |
+| 3 | Requirement Matching | Apply user preferences such as budget, usage, RAM, and storage. |
+| 4 | Recommendation Ranking | Rank suitable laptops using weighted scoring. |
+| 5 | Similarity Analysis | Use cosine similarity to identify laptops with comparable specifications. |
+| 6 | Product Comparison | Compare shortlisted products to support purchasing decisions. |
 
-## Obstacles & Solutions
+## Recommendation Approach
 
-| Challenge                    | Solution                                                                   |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| Different feature types      | Used `ColumnTransformer`, `OneHotEncoder`, and `StandardScaler`.           |
-| Extreme price values         | Applied 1st and 99th percentile price capping.                             |
-| Variation in rating values   | Applied log transformation to the target variable.                         |
-| Consistent preprocessing     | Combined preprocessing and XGBoost into a single Scikit-learn pipeline.    |
-| Personalized recommendations | Implemented filters for budget, brand, RAM, and storage.                   |
-| Model deployment             | Used Joblib to save the trained pipeline and integrated it with Streamlit. |
+LapPick uses a **weighted, rule-based recommendation system** to rank laptops according to user requirements.
 
-## Model & Results
+The recommendation process considers factors such as:
 
-**Algorithm:** XGBoost Regression
+- Budget compatibility
+- Intended usage
+- Processor and GPU specifications
+- RAM and storage
+- Screen size and available product details
 
-**Evaluation Metrics:** RMSE and R²
-
-The project includes model comparison during development, with XGBoost achieving approximately **0.96 R²** in the reported evaluation.
-
-The deployed application allows users to:
-
-* Explore laptops matching their requirements.
-* View the top 5 recommendations.
-* Compare predicted ratings.
-* Export recommendations as CSV.
+For similar laptop discovery, cosine similarity is applied to product specification vectors.
 
 ## Technology Stack
 
-| Category          | Technologies          |
-| ----------------- | --------------------- |
-| Programming       | Python                |
-| Data Analysis     | Pandas, NumPy         |
-| Visualization     | Matplotlib, Seaborn   |
-| Machine Learning  | Scikit-learn, XGBoost |
-| Model Persistence | Joblib                |
-| Application       | Streamlit             |
+| Category | Technologies |
+|---|---|
+| Programming | Python |
+| Application | Streamlit |
+| Data Processing | Pandas, NumPy |
+| Recommendation | Weighted Scoring, Cosine Similarity |
+| API Integration | API.SH – Croma API |
+| Data Export | CSV |
+| Version Control | Git, GitHub |
 
 ## Skills Demonstrated
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Regression Modeling
-* Model Evaluation
-* Machine Learning Pipelines
-* Recommendation Systems
-* Model Deployment
+- Python Application Development
+- REST API Integration
+- Data Extraction and Processing
+- Recommendation System Development
+- Product Data Analysis
+- Similarity Analysis
+- Interactive Application Development
+- Data-Driven Decision Support
 
 ## Future Enhancements
 
-* Multi-factor recommendation scoring.
-* SHAP-based model explainability.
-* PostgreSQL integration for structured data retrieval.
-* FastAPI backend development.
-* MLflow for experiment tracking.
-* Docker and CI/CD automation.
-* LLM-powered natural-language laptop recommendations.
+- SHAP-based recommendation explainability.
+- PostgreSQL integration for product data management.
+- FastAPI backend development.
+- Automated data refresh and historical price tracking.
+- MLflow for experiment tracking.
+- Docker and CI/CD deployment.
 
-## Quick Start
+## Run Locally
+
+### 1. Clone the repository
 
 ```bash
-# Clone the repository
 git clone https://github.com/mathan-ponraj/Laptop-Price-And-Recommendation-System.git
-
-# Navigate to the project
 cd Laptop-Price-And-Recommendation-System
+```
 
-# Install dependencies
+### 2. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-# Run the application
+### 3. Configure the API key
+
+Create a `.env` file in the project root:
+
+```env
+APISH_KEY=your_api_key
+```
+
+Replace `your_api_key` with your API.SH key.
+
+**Important:** Keep your actual API key private. Never commit your `.env` file to GitHub.
+
+### 4. Run the application
+
+```bash
 streamlit run app.py
 ```
 
@@ -132,7 +135,7 @@ streamlit run app.py
 
 ### Mathan Ponraj
 
-**M.E. Computer Science | Python | Data Science | Machine Learning**
+**M.E. Computer Science | Python | Data Science | AI & Software Development**
 
 <a href="https://github.com/mathan-ponraj">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -141,6 +144,6 @@ streamlit run app.py
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-*Built with data, curiosity, and continuous learning.*
+*Building practical software solutions through data and technology.*
 
 </div>
