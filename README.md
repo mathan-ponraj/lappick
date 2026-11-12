@@ -1,107 +1,112 @@
 <div align="center">
 
-# 💻 LapPick
+# LapPick
+### Live Laptop Data Intelligence & Decision-Support System
 
-### Find the right laptop with data, not guesswork.
+**A Python-based application for real-time product data acquisition, specification analysis, and data-driven laptop evaluation.**
 
-**An interactive laptop discovery, recommendation, and comparison application powered by live product listings.**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-2C7A7B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recommendation_System-8E44AD?style=for-the-badge" />
-</p>
+<br>
 
 <a href="https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_DEMO-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/▶_LIVE_APPLICATION-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+<a href="https://github.com/mathan-ponraj/lappick">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About the Project
+## 1. Abstract
 
-LapPick is a Python-based laptop discovery and recommendation application designed to simplify laptop purchasing decisions.
+LapPick is a live product data intelligence application developed to simplify the evaluation of laptop products using current market listings. The system retrieves product information from Croma through the third-party API.SH service, processes unstructured product specifications, and transforms the retrieved information into structured data for analysis.
 
-It retrieves current product listings from Croma through the API.SH API, processes technical specifications, and helps users identify suitable laptops based on their budget, intended usage, and hardware requirements.
+It evaluates product attributes against user-defined constraints using weighted scoring and applies cosine similarity to identify products with comparable specifications. The application provides interactive filtering, product comparison, analytical summaries, and CSV export through a Streamlit interface.
 
-Instead of manually comparing multiple product listings, users can explore recommendations, filter available products, discover similar laptops, and compare shortlisted options in one place.
+## 2. Problem Statement
 
-## Key Features
+Laptop specifications and prices are distributed across numerous product listings, making systematic product evaluation difficult. Product descriptions may also contain inconsistent or incomplete technical information.
 
-- **Personalised Recommendations:** Find suitable laptops based on budget, usage, RAM, storage, and hardware preferences.
-- **Live Product Discovery:** Fetch current laptop listings from Croma through API integration.
-- **Smart Filtering:** Filter laptops by brand, price, specifications, and other available product details.
-- **Usage-Based Matching:** Evaluate laptops for student work, coding, gaming, creative tasks, and business use.
-- **Laptop Comparison:** Compare up to four shortlisted laptops side by side.
-- **Similar Laptop Discovery:** Identify comparable products using cosine similarity.
-- **Product Insights:** Explore prices, discounts, ratings, processors, and available specifications.
-- **CSV Export:** Download product data for further analysis.
+The objective of LapPick is to establish a structured data-processing workflow that converts retrieved product listings into comparable product records and supports data-driven purchasing decisions.
 
-## How It Works
+## 3. System Objectives
 
-| Stage | Process | Description |
+- Acquire current laptop product listings through REST API integration.
+- Extract and standardise technical specifications from product descriptions.
+- Transform retrieved records into a structured analytical dataset.
+- Evaluate products against budget and hardware constraints.
+- Implement weighted attribute scoring for usage-based evaluation.
+- Apply cosine similarity for product specification analysis.
+- Provide interactive comparison, filtering, and CSV data export.
+
+## 4. System Architecture & Methodology
+
+| Stage | Module | Implementation |
 |---|---|---|
-| 1 | Data Retrieval | Fetch current laptop listings through the API.SH Croma API. |
-| 2 | Data Processing | Clean, normalise, and organise product information using Pandas. |
-| 3 | Requirement Matching | Evaluate products against user preferences and hardware requirements. |
-| 4 | Recommendation Ranking | Rank suitable laptops using a weighted scoring approach. |
-| 5 | Similarity Analysis | Apply cosine similarity to identify laptops with comparable specifications. |
-| 6 | Comparison | Present shortlisted products side by side for easier decision-making. |
+| 01 | Data Acquisition | API requests to API.SH Croma endpoint |
+| 02 | Data Extraction | Retrieval of product descriptions, prices and attributes |
+| 03 | Data Preprocessing | Cleaning, normalisation and specification parsing |
+| 04 | Feature Engineering | Extraction of RAM, storage, processor, GPU and screen attributes |
+| 05 | Constraint Evaluation | Budget and mandatory specification filtering |
+| 06 | Analytical Scoring | Weighted evaluation of product attributes |
+| 07 | Similarity Computation | Cosine similarity on numerical specification vectors |
+| 08 | Presentation | Interactive Streamlit interface and CSV export |
 
-## Recommendation Methodology
+### Analytical Methodology
 
-LapPick uses a **weighted, rule-based recommendation approach** to identify laptops that best match user requirements.
+**A. Data Acquisition and Preprocessing**
 
-The ranking process considers:
+Product listings are retrieved through the API endpoint. Pandas is used to organise and process the returned records. Technical attributes are extracted from available product information and normalised for downstream processing.
 
-- Budget compatibility
-- Intended usage
-- Processor capabilities
-- RAM and storage
-- Dedicated GPU availability
+**B. Feature Engineering**
+
+Product descriptions are parsed to derive structured attributes, including:
+
+- Processor tier
+- RAM capacity
+- Storage capacity
+- Graphics capability
 - Screen specifications
-- Other available product attributes
+- Product price and rating, when available
 
-For similar product discovery, cosine similarity is applied to numerical product specification vectors.
+**C. Weighted Attribute Evaluation**
 
-The recommendation scores are calculated from product attributes and user preferences; they are not predictions from a separately trained machine learning model.
+Products are evaluated against user requirements using a weighted scoring approach. Attribute importance varies according to the selected usage profile.
 
-## Technology Stack
+Budget and mandatory hardware requirements are applied as constraints before ranking eligible products.
 
-| Category | Technologies |
+**D. Similarity Analysis**
+
+Cosine similarity is applied to numerical product specification vectors to identify products with comparable hardware configurations.
+
+**E. Analytical Presentation**
+
+Processed records are presented through interactive filters, comparison views, pricing information, and downloadable CSV datasets.
+
+## 5. Technology Stack
+
+| Layer | Technologies |
 |---|---|
-| Programming Language | Python |
-| Application Framework | Streamlit |
+| Programming | Python |
+| API Integration | Requests, REST API |
 | Data Processing | Pandas, NumPy |
-| Recommendation Logic | Weighted Scoring |
-| Similarity Analysis | Cosine Similarity |
-| API Integration | API.SH – Croma API |
-| Data Export | CSV |
-| Version Control | Git, GitHub |
+| Feature Extraction | Python-based specification parsing |
+| Analytical Methods | Weighted Scoring, Cosine Similarity |
+| Application Interface | Streamlit |
+| Data Storage / Export | CSV |
+| External Data Provider | API.SH – Croma API |
 
-## API Integration
+## 6. Application Modules
 
-LapPick retrieves product listings using the third-party API.SH Croma API.
-
-| API Detail | Configuration |
+| Module | Responsibility |
 |---|---|
-| Provider | API.SH |
-| Endpoint | `GET https://api.api.sh/croma/v1/search` |
-| Authentication | `x-api-key` |
-| Search Parameter | `q` |
-| Additional Parameters | `page`, `sort` |
+| `croma_client.py` | API communication and laptop listing retrieval |
+| `data_utils.py` | Product data normalisation and CSV handling |
+| `recommender.py` | Specification parsing, weighted evaluation and similarity calculations |
+| `app.py` | Application workflow, user inputs, analytical views and product comparison |
 
-API documentation: https://api.sh/croma-api
-
-**Important:** This is a third-party API that retrieves data from public Croma product listings. It is not an official Croma developer API.
-
-API availability, pricing, request quotas, and free credits may change. Refer to the provider's documentation for current limits.
-
-## Project Structure
+### Repository Structure
 
 ```text
 lappick/
@@ -109,9 +114,9 @@ lappick/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── config.toml
 ├── .env.example
 ├── .gitignore
-├── config.toml
 │
 ├── src/
 │   ├── __init__.py
@@ -126,82 +131,83 @@ lappick/
     └── .gitkeep
 ```
 
-## Run Locally
+## 7. Results & System Limitations
 
-### 1. Clone the repository
+The implemented application provides:
+
+- Live retrieval of laptop listings through an external API.
+- Structured product information for interactive analysis.
+- Usage-dependent evaluation of available products.
+- Similarity-based identification of comparable specifications.
+- Side-by-side comparison of up to four shortlisted products.
+- CSV export for independent analysis.
+
+**Limitations:**
+
+1. Data availability depends on the external API provider.
+2. Product descriptions may contain incomplete or inconsistent specifications.
+3. Prices, discounts, ratings, and availability are time-dependent.
+4. Analytical results depend on the quality of extracted product attributes.
+5. The current implementation uses weighted scoring and cosine similarity; it does not include a separately trained predictive ML model.
+
+## 8. Installation & Execution
+
+**Prerequisites:** Python 3.10+ and an API.SH account with an available API key.
+
+**Step 1 — Clone the repository**
 
 ```bash
 git clone https://github.com/mathan-ponraj/lappick.git
 cd lappick
 ```
 
-### 2. Create a virtual environment
-
-```bash
-python -m venv .venv
-```
-
-Activate it on Windows:
+**Step 2 — Create and activate a virtual environment**
 
 ```powershell
+python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-### 3. Install dependencies
+**Step 3 — Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Configure the API key
+**Step 4 — Configure API credentials**
 
-Create a `.env` file in the project root using `.env.example` as a template.
-
-Add your API key:
+Create a `.env` file in the root directory:
 
 ```env
 APISH_KEY=your_actual_api_key
 ```
 
-Keep your actual API key private. Never upload your `.env` file to GitHub.
+For Streamlit Community Cloud, configure the same credential through the application's Secrets settings.
 
-### 5. Launch the application
+**Step 5 — Execute the application**
 
 ```bash
 streamlit run app.py
 ```
 
-## Data Limitations
+## 9. Data Source & References
 
-- Product prices, discounts, ratings, and availability can change.
-- Product listings may not contain every technical specification.
-- Recommendations depend on the quality and completeness of the retrieved product information.
-- Results represent the listings retrieved at the time of the API request, not guaranteed inventory or offers.
+- **Product Data Provider:** API.SH – Croma API
+- **API Endpoint:** `GET https://api.api.sh/croma/v1/search`
+- **Authentication:** `x-api-key`
+- **API Documentation:** https://api.sh/croma-api
+- **Similarity Method:** Cosine Similarity
 
-## Future Enhancements
+The API is a third-party integration that retrieves information from public Croma product listings. It is not an official Croma developer API. Users should verify product information with the retailer before making purchasing decisions.
 
-- Historical laptop price tracking.
-- PostgreSQL integration for product data management.
-- FastAPI backend architecture.
-- Recommendation explainability using SHAP where applicable.
-- Automated data refresh and monitoring.
-- Docker-based deployment and CI/CD integration.
-
-## Developer
+---
 
 <div align="center">
 
-### Mathan Ponraj
+**Developed by Mathan Ponraj**
 
-**M.E. Computer Science | Python | Data Science | AI & Software Development**
+M.E. Computer Science & Engineering · 2026
 
-<a href="https://github.com/mathan-ponraj">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mathan03/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-*Building practical software solutions through data and technology.*
+[GitHub](https://github.com/mathan-ponraj) · [LinkedIn](https://www.linkedin.com/in/mathan03/) · [Portfolio](https://mathan-portfolio-ten.vercel.app/)
 
 </div>
