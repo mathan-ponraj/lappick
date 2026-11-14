@@ -1,300 +1,222 @@
-<div align="center">
-
 # LapPick
-### Live Laptop Data Intelligence & Analytical Decision System
 
-**A Python-based system for live product data acquisition, feature engineering, weighted analytical evaluation, and specification similarity analysis.**
+Live laptop data. Smarter decisions. A Python app that pulls live laptop listings, extracts specs, and ranks laptops for different uses.
 
-<br>
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Try%20LapPick-6366f1?style=for-the-badge&logo=streamlit&logoColor=white)](https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/)
 
-<a href="https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/">
-  <img src="https://img.shields.io/badge/▶_LIVE_APPLICATION-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-<a href="https://github.com/mathan-ponraj/lappick">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 1. Abstract
+## Problem Statement
 
-LapPick is a data-driven application developed to transform live laptop product listings into structured and analytically comparable information.
+Laptop prices and specs change constantly, and listings describe the same hardware in different ways. This makes it hard for buyers to compare laptops and find the ones that fit their needs and budget.
 
-The system retrieves product data from Croma through the third-party API.SH service, processes product descriptions, extracts hardware specifications, and constructs numerical feature representations. These features are evaluated against user-defined requirements using weighted scoring, while cosine similarity identifies products with comparable specifications.
+## What I Built
 
-The application integrates data acquisition, preprocessing, feature engineering, analytical scoring, and interactive visualisation into a unified workflow using Python and Streamlit.
+In this project, I used the API.SH Croma API to pull live laptop listings and extracted CPU, RAM, storage, GPU, and display specs from product descriptions. I then ranked laptops with usage-based weighted scoring, constraint filters, and cosine similarity. I built the app with Python and Streamlit.
 
-## 2. Problem Statement
+## Key Features
 
-Laptop product information is distributed across multiple listings, often containing inconsistent descriptions, varying technical specifications, and changing prices.
+- Pulls live laptop listings through a REST API.
+- Extracts hardware specs from product names and highlights.
+- Scores laptops for five uses: Student, Coding and ML, Gaming, Creative, and Business.
+- Filters laptops by budget, RAM, storage, GPU, touchscreen, and brand.
+- Finds laptops with similar specs using cosine similarity.
+- Explains each result with up to three top-scoring features.
+- Lets users compare laptops and download the data as CSV.
 
-Manually evaluating these products makes it difficult to compare hardware configurations and determine which options satisfy specific requirements.
+## Tech Stack
 
-LapPick addresses this problem by establishing an automated data-processing and analytical workflow that converts retrieved product information into structured attributes and supports systematic product evaluation.
+| Area                | Tools                                    |
+| ------------------- | ---------------------------------------- |
+| Language            | Python                                   |
+| API communication   | Requests, REST API                       |
+| Data processing     | Pandas, NumPy                            |
+| Feature engineering | Python, regular expressions              |
+| Scoring             | Usage-based weighted scoring             |
+| Similarity          | Cosine similarity with NumPy             |
+| Application         | Streamlit                                |
+| Data export         | CSV                                      |
+| Version control     | Git, GitHub                              |
 
-## 3. Project Objectives
-
-- Retrieve current laptop listings through REST API integration.
-- Extract structured hardware attributes from product descriptions.
-- Perform data cleaning, normalisation, and feature engineering.
-- Develop usage-dependent analytical scoring.
-- Apply constraint-based filtering to product datasets.
-- Calculate cosine similarity between numerical product representations.
-- Generate interpretable explanations for analytical results.
-- Provide interactive comparison and downloadable datasets.
-
-## 4. System Architecture & Methodology
-
-| Stage | Component | Implementation |
-|---|---|---|
-| 01 | Data Acquisition | API integration using Python Requests |
-| 02 | Data Extraction | Product names, highlights, prices and ratings |
-| 03 | Data Preprocessing | Pandas-based cleaning and normalisation |
-| 04 | Feature Engineering | Hardware specification extraction |
-| 05 | Feature Representation | Numerical product feature vectors |
-| 06 | Constraint Evaluation | Budget and hardware requirement filtering |
-| 07 | Analytical Evaluation | Usage-dependent weighted scoring |
-| 08 | Similarity Computation | Cosine similarity using NumPy |
-| 09 | Result Interpretation | Feature contribution-based explanations |
-| 10 | Application Layer | Interactive Streamlit interface |
-
-### 4.1 Data Acquisition
-
-Product listings are retrieved through the API.SH Croma API using HTTP GET requests.
-
-The integration supports search queries, pagination, and sorting parameters. Retrieved product information is passed to the preprocessing module for further analysis.
-
-### 4.2 Data Preprocessing
-
-Pandas is used to organise and normalise the retrieved product records.
-
-Product names and highlights are combined to extract available technical information. Numerical attributes are converted into appropriate data types, while missing or unavailable values are handled during feature construction.
-
-### 4.3 Feature Engineering
-
-The system derives the following analytical attributes:
-
-| Feature | Description |
-|---|---|
-| CPU Tier | Processor performance classification (1–5) |
-| RAM | Extracted memory capacity in GB |
-| Storage | Extracted storage capacity in GB |
-| GPU | Dedicated graphics availability |
-| Gaming | Gaming-oriented product classification |
-| Screen Size | Display size in inches |
-| Portability | Screen-size-based portability score |
-| Rating | Normalised customer rating |
-| Price Value | Budget-relative price score |
-| Touchscreen | Touchscreen availability |
-
-### 4.4 Usage-Based Feature Weighting
-
-Five usage profiles define the relative importance of each feature.
-
-| Feature | Student | Coding & ML | Gaming | Creative | Business |
-|---|---:|---:|---:|---:|---:|
-| CPU Performance | 0.15 | 0.28 | 0.25 | 0.25 | 0.15 |
-| RAM | 0.15 | 0.30 | 0.10 | 0.20 | 0.10 |
-| Storage | 0.10 | 0.10 | 0.05 | 0.15 | 0.10 |
-| GPU | 0.00 | 0.12 | 0.40 | 0.15 | 0.00 |
-| Portability | 0.25 | 0.05 | 0.00 | 0.05 | 0.35 |
-| Rating | 0.10 | 0.05 | 0.05 | 0.05 | 0.10 |
-| Price Value | 0.25 | 0.10 | 0.15 | 0.15 | 0.20 |
-
-Each profile has weights that sum to 1.0.
-
-### 4.5 Weighted Analytical Scoring
-
-Normalised product features are combined using a weighted scoring function:
-
-\[
-S(x) = \sum_{i=1}^{n} w_i f_i(x)
-\]
-
-Where:
-
-- \(S(x)\): Overall product score.
-- \(w_i\): Importance weight assigned to feature \(i\).
-- \(f_i(x)\): Normalised feature value.
-- \(n\): Number of evaluated features.
-
-The calculated score is converted into a percentage-based match score.
-
-Optional keyword matches contribute an additional scoring adjustment.
-
-### 4.6 Constraint-Based Evaluation
-
-Before ranking, products are filtered according to mandatory requirements:
-
-- Maximum budget.
-- Minimum RAM capacity.
-- Minimum storage capacity.
-- Dedicated GPU requirement.
-- Touchscreen requirement.
-- Brand preferences.
-
-Products that fail the specified hard constraints are excluded from the eligible results.
-
-### 4.7 Similarity Analysis
-
-Cosine similarity is applied to numerical product feature vectors to identify laptops with comparable specifications.
-
-\[
-\operatorname{Similarity}(A,B) =
-\frac{A \cdot B}{\|A\|\|B\|}
-\]
-
-The implementation uses NumPy matrix operations to calculate similarity. Price is included as a feature, while rating and budget-relative value are excluded from this comparison.
-
-### 4.8 Explainable Analytical Results
-
-The system identifies the highest-contributing features for each evaluated product.
-
-It generates up to three human-readable explanations based on attributes such as processor performance, memory capacity, storage, graphics, ratings, and price compatibility.
-
-This provides additional context behind the calculated match score.
-
-## 5. Technology Stack
-
-| Category | Technologies |
-|---|---|
-| Programming Language | Python |
-| API Communication | Requests, REST API |
-| Data Processing | Pandas, NumPy |
-| Feature Engineering | Python, Regular Expressions |
-| Analytical Scoring | Weighted Attribute Evaluation |
-| Similarity Analysis | Cosine Similarity, NumPy |
-| Application Framework | Streamlit |
-| Data Export | CSV |
-| Version Control | Git, GitHub |
-
-## 6. Application Modules
-
-| File | Responsibility |
-|---|---|
-| `app.py` | Application interface and workflow management |
-| `src/croma_client.py` | External API communication and product retrieval |
-| `src/data_utils.py` | Product normalisation and data persistence |
-| `src/recommender.py` | Specification parsing, feature engineering, scoring and similarity analysis |
-
-### Repository Structure
+## Project Structure
 
 ```text
 lappick/
 │
-├── app.py
-├── requirements.txt
-├── README.md
-├── config.toml
-├── .env.example
-├── .gitignore
+├── app.py                  # Streamlit interface and workflow
+├── requirements.txt        # Python dependencies
+├── config.toml             # App configuration
+├── .env.example            # Template for the API key
+├── .gitignore              # Files Git should ignore
 │
 ├── src/
-│   ├── __init__.py
-│   ├── croma_client.py
-│   ├── data_utils.py
-│   └── recommender.py
+│   ├── __init__.py         # Marks src as a package
+│   ├── croma_client.py     # Calls the API and retrieves listings
+│   ├── data_utils.py       # Cleans listings and saves data
+│   └── recommender.py      # Spec parsing, features, scoring, similarity
 │
-├── data/
+├── data/                   # Saved data files
 │   └── .gitkeep
 │
-└── model/
-    └── .gitkeep
+├── model/                  # Placeholder folder
+│   └── .gitkeep
+│
+└── README.md               # Project documentation
 ```
 
-## 7. Implementation Results & Limitations
+## Data
 
-### Implemented Capabilities
+- **Source:** API.SH Croma API, a third-party service that reads public Croma product listings. It is not an official Croma API.
+- **Endpoint:** `GET https://api.api.sh/croma/v1/search`, with search, page, and sort parameters.
+- **Size:** [TODO: add the number of listings you usually pull]
+- **Raw fields:** Product name, highlights, price, and rating.
+- **Engineered columns:** CPU tier (1 to 5), RAM (GB), storage (GB), dedicated GPU, gaming flag, screen size (inches), portability score, normalised rating, price value, and touchscreen.
+- **Cleaning steps:**
+  - Organise the listings into a Pandas table.
+  - Combine product names and highlights to find spec details.
+  - Convert numbers to the right data types.
+  - Fill missing specs with preset fallback values.
 
-- Live retrieval of laptop listings through API integration.
-- Automated extraction of available hardware specifications.
-- Numerical feature construction for product evaluation.
-- Five usage profiles with different feature weight configurations.
-- Constraint-based filtering and weighted analytical scoring.
-- Cosine similarity for comparable product identification.
-- Feature-based explanations for evaluated results.
-- Interactive product comparison and CSV export.
+## Approach / Methodology
 
-### Limitations
+1. Request laptop listings from the API with Python Requests.
+2. Extract names, highlights, prices, and ratings.
+3. Clean and normalise the data with Pandas.
+4. Pull out hardware specs from the text using regular expressions.
+5. Turn each laptop into a numerical feature vector.
+6. Remove laptops that fail the user's hard requirements: budget, RAM, storage, GPU, touchscreen, and brand.
+7. Score the remaining laptops with the weights for the chosen use.
+8. Find similar laptops using cosine similarity on the feature vectors.
+9. Show the top three features behind each score as a short explanation.
+10. Show the results in Streamlit, with comparison and CSV download.
 
-1. Product availability depends on the external API provider.
-2. Product descriptions may contain incomplete or inconsistent specifications.
-3. CPU tiers are heuristic classifications rather than benchmark measurements.
-4. Missing numerical specifications are handled using predefined fallback values in feature construction.
-5. Weighted scores are analytical match indicators, not measured purchasing success probabilities.
-6. The current implementation does not contain a separately trained predictive machine learning model.
+**Scoring formula:** score = sum of (weight x normalised feature value). The score is shown as a match percentage. Matching keywords add a small adjustment.
 
-## 8. Installation & Execution
+**Usage weights:**
 
-**Prerequisites:** Python 3.10+ and a valid API.SH API key.
+| Feature         | Student | Coding and ML | Gaming | Creative | Business |
+| --------------- | ------: | ------------: | -----: | -------: | -------: |
+| CPU performance |    0.15 |          0.28 |   0.25 |     0.25 |     0.15 |
+| RAM             |    0.15 |          0.30 |   0.10 |     0.20 |     0.10 |
+| Storage         |    0.10 |          0.10 |   0.05 |     0.15 |     0.10 |
+| GPU             |    0.00 |          0.12 |   0.40 |     0.15 |     0.00 |
+| Portability     |    0.25 |          0.05 |   0.00 |     0.05 |     0.35 |
+| Rating          |    0.10 |          0.05 |   0.05 |     0.05 |     0.10 |
+| Price value     |    0.25 |          0.10 |   0.15 |     0.15 |     0.20 |
 
-### Step 1 — Clone the repository
+Each column adds up to 1.0.
+
+**Similarity:** Price is included in the comparison. Rating and price value are left out.
+
+## Results and Insights
+
+- Live and deployed: [LapPick on Streamlit](https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/)
+- Listings processed in a typical search: [TODO: add the number if you measured it]
+- Share of listings where all specs were found: [TODO: add if you measured it]
+- Example insight: [TODO: add one finding, such as how rankings change between Student and Gaming]
+
+**Limitations**
+
+1. Available laptops depend on the API provider.
+2. Product descriptions can be incomplete or inconsistent.
+3. CPU tiers are rule-based groups, not benchmark scores.
+4. Missing specs are filled with preset fallback values.
+5. The match score shows how well a laptop fits your needs. It does not predict whether you will be happy with it.
+6. There is no trained machine learning model in this project.
+
+## How to Run Locally
+
+You need Python 3.10 or higher and an API.SH API key.
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/mathan-ponraj/lappick.git
+```
+
+Go to the project folder:
+
+```bash
 cd lappick
 ```
 
-### Step 2 — Create a virtual environment
+Create a virtual environment:
 
-```powershell
+```bash
 python -m venv .venv
 ```
 
-Activate on Windows:
+Activate it:
 
 ```powershell
 .venv\Scripts\Activate.ps1
 ```
 
-### Step 3 — Install dependencies
+On macOS or Linux, use `source .venv/bin/activate` instead.
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4 — Configure API credentials
-
-Create a `.env` file in the project root using `.env.example` as a template.
+Create a `.env` file in the project root, using `.env.example` as a template:
 
 ```env
 APISH_KEY=your_actual_api_key
 ```
 
-For Streamlit Community Cloud, configure `APISH_KEY` through the application's Secrets settings.
+On Streamlit Community Cloud, add `APISH_KEY` in the app's Secrets settings. Never commit your real API key or `.env` file to GitHub.
 
-**Security:** Never commit your actual API key or `.env` file to GitHub.
-
-### Step 5 — Launch the application
+Start the app:
 
 ```bash
 streamlit run app.py
 ```
 
-## 9. External Data Source & References
+## Screenshots
 
-| Reference | Details |
-|---|---|
-| Product Data Provider | API.SH – Croma API |
-| Endpoint | `GET https://api.api.sh/croma/v1/search` |
-| Authentication Header | `x-api-key` |
-| Search Parameter | `q` |
-| Additional Parameters | `page`, `sort` |
-| Documentation | https://api.sh/croma-api |
+| Home | Ranked results |
+| ---- | -------------- |
+| ![Home](screenshots/home.png) | ![Results](screenshots/results.png) |
 
-The integration uses a third-party API that retrieves information from public Croma product listings. It is not an official Croma developer API.
+| Compare laptops | Similar laptops |
+| --------------- | --------------- |
+| ![Compare](screenshots/compare.png) | ![Similar](screenshots/similar.png) |
 
-Product prices, discounts, ratings, and availability may change. Verify information with the retailer before purchasing.
+<!-- [TODO: add your screenshots to a screenshots/ folder with these file names, or update the paths] -->
+
+## What I Learned and Future Improvements
+
+**What I learned**
+
+- Pulled live data from a REST API and turned it into a clean table with Pandas.
+- Extracted structured features from messy product text using regular expressions.
+- Built numerical feature vectors and normalised them for fair comparison.
+- Designed weighted scoring and chose different weights for different uses.
+- Applied cosine similarity with NumPy to find laptops with similar specs.
+- Wrote clear explanations for each result so the score is easy to understand.
+- Documented the limits of my method, such as rule-based CPU tiers and fallback values.
+
+**Future improvements**
+
+- Replace the rule-based CPU tiers with benchmark data.
+- Test how well the extraction finds specs across more listings.
+- Track price changes over time to show price trends.
+
+## Contact
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-LapPick-6366f1?style=for-the-badge&logo=streamlit&logoColor=white)](https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-mathan--ponraj-181717?style=for-the-badge&logo=github)](https://github.com/mathan-ponraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mathan03-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mathan03/)
 
 ---
 
-<div align="center">
-
-**Developed by Mathan Ponraj**
-
-
-[GitHub](https://github.com/mathan-ponraj) · [LinkedIn](https://www.linkedin.com/in/mathan03/) · [Portfolio](https://mathan-portfolio-ten.vercel.app/)
-
-</div>
+Developed by Mathan
